@@ -142,7 +142,7 @@ Date: {{ now | date("MMMM Do YYYY") }} at {{ now | date("h:mm A") }}
   
 
 
-{% if (carta.use_pricing_test_updates == false) %}
+{% if (carta.use_pricing_test_updates == false or carta.use_pricing_test_updates == null) %}
 [new-page]
 
 EXHIBIT 1
