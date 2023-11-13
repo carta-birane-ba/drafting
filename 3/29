@@ -140,6 +140,9 @@ Date: {{ now | date("MMMM Do YYYY") }} at {{ now | date("h:mm A") }}
 {% endfor %}
 {% endif %}
   
+
+
+{% if (carta.use_pricing_test_updates == false) %}
 [new-page]
 
 EXHIBIT 1
@@ -153,10 +156,11 @@ ADD-ONS
 Item {% endif %}
 {% if carta.use_additional_close == true %}Additional Close (same asset and same terms) USD $3,000 (per additional close){% endif %}
 {% if carta.use_side_letter == true %}Side Letter for waived carry USD $1,900 {% endif %}
+{% endif %}
 
-
-[new-page]
 {% if (carta.use_pricing_test_updates == true) %}
+[new-page]
+
   SCOPE OF SERVICES
 Item 
 Syndicate SPV USD $10,000
