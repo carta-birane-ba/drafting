@@ -1,0 +1,168 @@
+
+
+Carta<br>333 Bush St, Floor 23, Ste 2300<br>San Francisco, CA 94104
+<br>
+{{manager.name}}<br>{{manager.title}}<br>{{carta.contact_address.street_address_1}}<br>{% if carta.contact_address.street_address_2 !== '' %}{{carta.contact_address.street_address_2}}<br>{% endif %}{{carta.contact_address.city}}, {% if carta.contact_address.province !== '' %}{{carta.contact_address.province}}{% endif %} {{carta.contact_address.postal_code}}
+
+<br>
+<center>**ENGAGEMENT LETTER**</center><br>
+<center>DATED {{now | date('MMM DD, YYYY') }}</center>
+
+THIS ENGAGEMENT LETTER is to confirm our understanding of the terms and objectives related to the engagement of Carta US Syndicate Administrator LLC (“Carta” or “we”) by {{manager.name}} (“Client” or “you”), to provide the services for you set for in this letter (this “Engagement Letter”) as of the date signed by both parties below (the “Effective Date”) (the “Engagement”). {% if carta.is_amended == true %}This Engagement Letter supersedes the prior Engagement Letter executed on {{carta.previous_engagement_letter_date | date('MMM DD, YYYY')}} in its entirety.{% endif %}
+
+Unless defined or otherwise stated to the contrary in this Engagement Letter, terms which are capitalized in this Engagement Letter shall have the meanings given to them in the MSA (as hereinafter defined).
+
+**Scope of Services**
+
+We will provide the services listed below and detailed in the exhibit(s) attached hereto for the duration of the Engagement.
+
+Syndicate SPV
+
+
+Carta will provide the services and related reports in its standard format and shall not be responsible for any work not specifically enumerated in the Engagement or the statement of work.
+
+Client agrees and acknowledges (i) that Carta is not responsible for ensuring that, or determining whether, Client is in compliance with Client’s obligations under applicable law, and (ii) Client is solely responsible for understanding its obligations under, and complying with, all applicable law. The Client is advised to seek counsel of its legal advisor, accountant or tax professional pertaining to the services to be performed by Carta hereunder.
+
+The services to be performed by Carta hereunder are not exclusive to the Client and/or the Client’s special purpose vehicle (“SPV”). The same services may be provided by Carta to any other client, including another client with similar objectives to those of the Client and the Client’s SPV. The Client acknowledges that Carta’s relationship with the Client under the terms of this Engagement Letter and the statement of work attached hereto in no way precludes Carta from representing other investment platforms, investment groups, venture capital organizations, fund sponsors, private equity fund sponsors, investors, or any other party. The Client, for itself and on behalf of its SPV, acknowledges that Carta has no duty to disclose to the Client or such SPV the confidential information of another client, nor is Carta liable to account for any profit or benefit derived by any client as a result of the services provided hereunder.
+
+Client agrees that none of Carta, nor any of its Affiliates, shall be liable to Client for any damages, costs, expenses or losses caused in any way or arising from (i) any information provided to Client or to the SPV’s investors by Carta in connection with Carta’s services and/or the template SPV documents, or (ii) Client’s or any SPV investor’s failure to comply with Client’s obligations under all applicable law.
+
+**Fees**
+
+
+In consideration of the proper performance of the services by Carta, {% if carta.fees_payer == 'fees_paid_by_lead' %}Client shall pay the fees for this Engagement as described and outlined in the statement of work attached hereto and not expense such fees to the SPV{% elif carta.fees_payer == 'fees_paid_by_investors' %}the SPV shall be responsible for the payment of fees to Carta for this Engagement {% endif %}
+
+If the underlying investment for the SPV falls through and the vehicle is not used, then neither the Client nor the SPV will be responsible for payment of fees.
+
+Fees may be invoiced by Carta or on behalf of Carta by its Affiliate via e-mail to the nominated email address (as recorded on and confirmed on the Carta platform).
+
+All invoices are due for payment within fifteen (15) calendar days from receipt.
+
+Any work we perform for Client in response to any audit, final accounting or investigation of Client (other than Clients regular periodic audits) or litigation concerning Client will be billed at Carta’s standard hourly rate in effect at the time such work is performed.
+
+**Term and Termination**
+
+The initial term of this Engagement begins on the Effective Date and shall continue in full force and effect for 144 calendar months, renewable by another term of 144 calendar months by mutual consent of the parties, unless terminated sooner in accordance with this Engagement Letter.
+
+The Parties may at any time terminate this Engagement by mutual consent.
+
+In addition to any termination rights set forth in the MSA, Carta may terminate this Engagement where one (or more) of the following conditions have been met:
+1. The SPV is operated in a manner contrary to the conditions outlined under “Mandatory Conditions” set out in the statement of work attached hereto and Client fails to remedy this within a fixed period of 21 calendar days starting from the breach.
+1. The investment objective of the SPV has been met (such as the sale or otherwise “exit” of the underlying investment, the liquidation or bankruptcy of the underlying investment or the “marking” or valuation of the underlying investment as zero or negative), and the SPV is therefore no longer required.
+
+1. The SPV is subject to adverse regulatory action due to the direct or indirect actions or omissions of Client or/and the investors in the {% if carta.entity_type == 'Syndicate SPV' %}SPV{% elif  carta.entity_type == 'CTV'  %}CTV{% endif %}.
+1. The SPV is subject to ongoing litigation due to the direct or indirect actions or omissions of Client or/and investors in the SPV.
+1. The underlying investment that the SPV has acquired a direct or indirect interest in is classified by a court of law or regulatory organization in the United States, United Nations, United Kingdom, European Union, or other applicable jurisdiction as illegal.
+1. Client and/or an investor in the SPV has been blacklisted or sanctioned by the United Nations, United Kingdom, United States or European Union or is ordinarily resident in a jurisdiction listed by the Office of Foreign Assets Control, HM Treasury, or on the European Union list of noncooperative tax jurisdictions and the SPV is unable to sever its connection with such blacklisted or sanctioned individual(s).
+1. Client or/and investors in the SPV initiate legal action or legal claim(s) against Carta.
+1. Any individual or legal entity with a direct or indirect interest in the SPV failing, upon request, to provide (or/and update) the relevant identification and evidentiary documentation to satisfy Know-Your-Customer, Anti-Money Laundering and Counter-Terrorist Financing (“KYC”) requirements, in a timely manner.
+1. The determination by Carta, in its sole discretion, that the performance of its services hereunder may give rise to a violation of applicable law or regulations without material changes to its business or the activities described in this Engagement Letter, as determined by Carta in its sole discretion.
+1. Carta, in its sole discretion, decides to de-board the SPV.
+In case of termination, each party is released from its obligations, and Carta is entitled to receive all fees and other monies that have accrued and are due up to the date of that termination.
+Carta may require Client to cease referring to, or mention, Carta's name in all existing and future material.
+This Letter, together with the Master Subscription Agreement (https://carta.com/msa) (the "MSA"), constitutes the entire agreement between the Client and Carta with respect to the Engagement, supersedes all other oral and written representations, understandings or agreements relating to this Engagement, and may not be amended except by the mutual written agreement of the Client and Carta. The MSA contains, among other terms, provisions on warranties, indemnity, and confidentiality.
+
+<center>[Signature page follows]</center>
+[new-page]
+
+
+IN WITNESS WHEREOF, the parties have caused their duly authorized representatives to sign this Engagement Letter on their behalf on the dates indicated below:
+
+ 
+[table-start]
+[table-line]
+{% if (manager.signatures != null) and (manager.signatures[0] != null) and (manager.signatures[0].signed == true) %}
+   Carta US Syndicate Administrator LLC
+{% endif %}
+[table-column]
+   {{manager.name}}
+[table-line]
+  <br>
+[table-column]
+ <br>
+[table-line]
+{% if (manager.signatures != null) and (manager.signatures[0] != null) and (manager.signatures[0].signed == true) %}
+By:
+ [signature-single="countersign"] 
+  
+{% endif %}
+[table-column]
+  By: 
+  [signature-single="manager"]
+[table-line]
+  <br>
+[table-column]
+ <br>
+[table-line]
+{% if (manager.signatures != null) and (manager.signatures[0] != null) and (manager.signatures[0].signed == true) %}
+  Print Name: Christie Hansen
+{% endif %}
+[table-column]
+  Print Name: {{manager.name}}
+[table-line]
+{% if (manager.signatures != null) and (manager.signatures[0] != null) and (manager.signatures[0].signed == true) %}
+  Title:
+{% endif %}
+[table-column]
+  Title: {{manager.title}}
+[table-line]
+{% if (manager.signatures != null) and (manager.signatures[0] != null) and (manager.signatures[0].signed == true) %}
+Date: {{ now | date("MMMM Do YYYY") }} at {{ now | date("h:mm A") }}
+{% endif %}
+[table-column]
+  Date: {{carta.as_of_date}} at {{ now | date("h:mm A") }}
+[table-stop]
+
+{% if (manager.signatures != null) and (manager.signatures[0] != null) and (manager.signatures[0].signed == true) %}
+{% for sale in sales %}
+[table-start]
+  [table-line]
+    [table-column]
+       {{sale.name}}
+  [table-line]
+    [table-column]
+     <br>
+  [table-line]
+    [table-column]
+      By: 
+      [signature-single="sale"]
+  [table-line]
+    [table-column]
+     <br>
+  [table-line]
+    [table-column]
+      Print Name: {{sale.name}}
+  [table-line]
+    [table-column]
+      Title: {{sale.title}}
+  [table-line]
+    [table-column]
+      Date: {{ now | date("MMMM Do YYYY") }} at {{ now | date("h:mm A") }}
+[table-stop]
+{% endfor %}
+{% endif %}
+  
+[new-page]
+<center>**EXHIBIT 1**</center>
+<center>**SCOPE OF SERVICES**</center>
+[https://support.carta.com/s/article/us-syndicate-spv-scope-of-services]
+<br>
+[table-start]
+  [table-line]
+    [table-column]
+Item 
+ [table-column]
+Price 
+[table-line]
+    [table-column]
+Syndicate SPV 
+    [table-column]
+    USD $8,000
+[table-line]
+    [table-column]
+
+{% if carta.use_side_letter == true %}Side Letter for Waived Carry [table-column]USD $1,900 {% endif %}
+[table-line]
+    [table-column]
+{% if carta.use_additional_close == true %}Additional Close (same asset and same terms) [table-column]USD $3,000 (per additional close){% endif %}
+[table-stop]

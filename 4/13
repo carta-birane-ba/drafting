@@ -1,0 +1,31 @@
+<center>
+  # Engagement Letter
+  # {{ fund.name }}
+</center>
+
+<br/>
+
+{{now | date('MMM DD, YYYY') }}
+{{ customer.title }} {{ customer.lastname }} {{ customer.firstname }}
+{{ sales.title }} {{ sales.lastname }} {{ sales.firstname }}
+Carta {{ sales.location | country }}
+
+<br/>
+
+Dear {{customer.firstname}},
+
+This letter is to confirm our understanding of the terms and objectives related to the engagement of Carta Investor Services, Inc. by you, to provide the software and services for the Client set forth in this letter (the "Engagement") as of the date signed by both parties below (the "Effective Date").
+
+<br/>
+
+**Scope of Services**
+
+We will provide the software and services listed below and detailed in the order form and exhibit(s) attached hereto for the duration of the Engagement.
+
+**Terms**
+
+Price {{ terms.price | currency }}
+
+[new-page]
+
+[signature-block]

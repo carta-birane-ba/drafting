@@ -1,0 +1,130 @@
+[cover-start]
+
+### <center>DATED {{now | date('Do of MMMM YYYY') }}</center>
+<br>
+<center>## {{ carta.fund_name }}</center> 
+<br>
+<center>### Investment Advisory Agreement </center> 
+<br>
+[cover-end]
+	
+	
+This Investment Advisory Agreement (this **“Agreement”**) is dated and effective as of **{{now | date('Do of MMMM YYYY') }}** (the **“Effective Date”**), and is made by and among (i) {{carta.fund_name}}, a series of {{carta.master_entity_name}}, a Delaware multi-series limited partnership (the **“Fund”**), (ii) {{carta.gp_entity_name}}, a Delaware limited liability company, as the general partner of the Fund and the Master Partnership (the **“General Partner”**), and (iii) {{carta.investment_advisor_name}}, a Delaware limited liability company and an Affiliate of the General Partner (the **“Investment Adviser”**). Capitalized terms used without definition herein have the respective meanings ascribed to them in the Limited Partnership of the Fund (as the same may be amended from time to time, the **“Partnership Agreement”**).  
+
+[new-page]
+
+#### RECITALS
+
+**WHEREAS**, pursuant to Section 6.13 of the Partnership Agreement, the Fund and the General Partner seek to engage the Investment Adviser to manage the Fund and implement the Fund’s investment strategy in accordance with the Fund’s purpose as set forth in Section 2.2 of the Partnership Agreement, investment objectives, policies and restrictions, to provide day-to-day managerial and administrative services and to perform such other acts as may be approved by the General Partner on the terms set forth in this Agreement, and the Investment Adviser desires to accept such appointment. 
+
+**NOW, THEREFORE**, for and in consideration of the covenants and agreements of the parties made in this Agreement, and for other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties agree as follows:
+
+1. **Appointment** 
+
+   Subject to the terms and conditions of this Agreement, the General Partner hereby appoints the Investment Adviser to act as investment adviser to the Fund in accordance with the terms set forth in this Agreement until this Agreement is terminated pursuant to Section 6. The Adviser accepts such appointment and agrees to render the Services, as defined below, in accordance with the terms of this Agreement.
+
+
+1. **Investment Advisory Services**
+   The Investment Adviser shall provide to the Fund investment advisory services (“Services”) regarding the implementation of the Fund’s investment strategy in accordance with the Fund’s purpose as set forth in Section 2.2 of the Partnership Agreement, investment objectives, policies and restrictions, the provision of day-to-day managerial and administrative services and the performance such other acts as may be approved by the General Partner.  The Services to be initially provided by the Investment Adviser to the Fund shall include, without limitation: 
+   1. determining whether to seek an investment in the Target Company; 
+   1. determining when and on what terms to dispose of the Fund’s investment in the Target Company; 
+   1. exercising all voting rights with respect to the Target company; 
+   1. procuring that the Fund distributes all cash and marketable securities to the Partners promptly upon receipt from the target Company, subject to any lock-up agreements or similar restrictions; and 
+   1. deciding whether to distribute securities or sell those securities and distribute cash.  Solely in furtherance of the provision of the Services, the Investment Adviser shall have the authority to perform such other actions as the Fund may reasonably request, including, without limitation: 
+      - supervising third parties who provide services with respect to Fund management and securities and other assets that may be acquired by the Fund, 
+      - managing the Fund’s assets generally and monitoring securities of the Fund,
+		- executing and directing others in the execution of trades to purchase and sell securities, 
+		- establishing bank accounts on behalf of the Fund, including custodial accounts, brokerage accounts and margin accounts, and managing the receipt and disbursal of funds in such accounts, 
+		- exercising voting or consent rights with respect to the Fund’s assets, 
+		- taking such other actions the General Partner deems necessary or advisable for the management of the Fund’s assets and 
+		- executing all agreements, documents and instruments related to the foregoing. 
+   1. The Investment Adviser shall perform the Services in all material respects in accordance with 
+         - the Fund’s purpose as set forth in Section 2.2 of the Partnership Agreement and its investment objectives, policies and restrictions that are communicated to the Investment Adviser by the General Partner from time to time, and 
+			- the requirements of any applicable foreign, federal, state and local laws and regulations, and the requirements of any applicable foreign, federal, state and local regulatory authorities.  The Investment Adviser’s performance of the Services shall at all times remain subject to the supervision of the General Partner.   
+   1.  The Investment Adviser shall maintain its own:
+         - office facilities and utilities, 
+         - clerical, bookkeeping and recordkeeping services at such office facilities, 
+         - communications equipment and services including telephone and internet facilities, and news and quotation services, and 
+         - computer hardware and software.   
+   1.  The Investment Adviser may subcontract certain of the services required to be performed by the Investment Adviser, and the Investment Adviser agrees to be responsible for the compliance by such parties of the terms of this Agreement.     
+   1.	The Investment Adviser shall provide such financial statements or reports to the Fund and the General Partner as may be reasonably requested by the General Partner for the preparation of the Fund’s financial statements or reports, including those reports to be delivered in accordance with Section 6.7 of the Partnership Agreement.      
+   1.	The Fund has delivered to the Investment Adviser the Partnership Agreement and the Fund’s confidential private placement memorandum as in effect on the date of this Agreement and shall deliver to the Investment Adviser any and all future amendments, material modifications and supplements to such documents, if any. The Investment Adviser represents that it has reviewed and is familiar with the terms and conditions of the Partnership Agreement and the Fund’s confidential private placement memorandum and agrees that it is subject to all applicable provisions of such documents.
+  
+1.	**Fees: Expenses**
+
+      1. During the term of this Agreement, and except as otherwise agreed among the parties, the Investment Adviser shall pay the following expenses: 
+            - salaries and expenses of all personnel of the Investment Adviser, 
+				- expenses related to the maintenance of the Investment Adviser’s office facilities, including, but not limited to, expenses related to rent, furnishings, office equipment and utilities, 
+				- expenses related to the Investment Adviser’s communications equipment and services such as telephone and internet facilities, 
+				- expenses related to fees due to persons who identify purchasers of Interests, and 
+				- any other expenses incurred by the Investment Adviser in performing the Services for the Fund.
+       1. The Investment Adviser shall be entitled to receive the Management Fee, payable quarterly, in advance, in the amounts as set forth in Section 6.6(a) of the Partnership Agreement.  The General Partner may, in its discretion, waive, reduce or rebate the Management Fee with respect to any Limited Partner or group of Limited Partners (as defined in the Partnership Agreement, and which group may, but need not, include all Limited Partners), including Affiliates of the General Partner, as set forth in the Partnership Agreement.
+
+1.	**Indemnification**
+
+   The parties hereto acknowledge that the Investment Adviser, any controlling Person of the Investment Adviser or any of its Affiliates, and each current or former manager, managing member or general partner, director, officer, stockholder or shareholder, partner, member, employee, legal counsel, representative, incorporator or other agent of the Investment Adviser are Protected Persons and shall have the full benefit of the exculpation, indemnification and expense advancement provisions in the Partnership Agreement, including, without limitation, Section 9 of the Partnership Agreement, as if the same were set forth in full in this Agreement. The provisions of this Section shall survive the termination of this Agreement.
+
+1.	**Amendment** 
+
+   This Agreement may only be amended, supplemented or waived by mutual consent of the parties in writing signed by the parties.
+
+1.	**Term**
+
+   1. This Agreement shall continue until the earliest of:
+      - such time as the Fund is terminated as a legal entity, 
+      - the parties mutually agree to terminate this Agreement, 
+      - the determination of the Investment Adviser in accordance with Section 6.13(c) of the Partnership Agreement, or 
+      - by the General Partner or the Investment Adviser upon thirty days’ prior written notice to the other.
+
+1. **Assignment**
+ 
+   This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors.  The obligations of the Investment Adviser under this Agreement may not be “assigned” (which term shall have the meaning as set forth under the Advisers Act), and shall include any assignment for purposes of the Advisers Act) by the Adviser without the prior written consent of the Fund and the General Partner; provided that it will not constitute an assignment if the equity owners of the Investment Adviser reorganize or reconstitute the Investment Adviser to a be in the form of a partnership, or corporation or any other form of legal entity, so long as such reorganization or reconstitution is not adverse to the interests of the General Partner, the Fund or the Limited Partners of the Fund.
+
+1.	**Relationship**
+
+   The Investment Adviser shall, for all purposes herein, be deemed to be an independent contractor.  Nothing in this Agreement shall be deemed to create a joint venture or partnership between the parties with respect to the arrangements set forth in this Agreement.  
+
+
+1.	**Notices**  
+ 
+   1. Any notice or other communication that one party desires to give to another party shall be in writing, and shall be deemed effectively given: 
+   1. upon personal delivery to the party to be notified; 
+   1. when sent or transmitted by electronic mail if transmitted during normal business hours of the recipient, if not, then on the next business day; 
+   1. three days after having been sent by registered or certified mail, return receipt requested, postage prepaid; or 
+   1. one day after deposit with a nationally recognized overnight courier, specifying next day delivery, with written verification of receipt. All communications shall be addressed to the other parties at the address set forth on the signature page attached hereto for each such party or at such other address as a party may designate by five days’ advance written notice to the other parties. 
+
+1.	**Governing Law: Jurisdiction**  
+
+   This Agreement shall be governed by, and construed and enforced in accordance with, the internal laws of the State of Delaware, without regard to its conflicts of laws principles.  Any controversy or claim arising out of or relating to this Agreement shall be resolved, and any costs associated therewith shall be apportioned among the parties, in the same manner as if such controversy or claim had arisen under the Partnership Agreement. 
+
+1. **Entire Agreement: No Third-Party Beneficiaries** 
+
+   This Agreement contains the entire agreement and understanding among the parties, and supersedes all prior written or oral agreements and understandings relating to the subject matter of this Agreement. Except with regards to the obligations to Protected Persons as set forth in Section 4 or as otherwise specifically provided in this Agreement, this Agreement is not intended to confer upon any person other than the parties any rights or remedies under this Agreement.
+
+1. **Severability: Binding Nature** 
+ 
+   Should any part of this Agreement be held invalid by a court decision, statute, rule or otherwise, the remainder of this Agreement shall not be affected thereby. This Agreement shall be binding upon and shall inure to the benefit of the parties and their respective successors and permitted assigns.
+
+1. **Counterparts** 
+
+   This Agreement may be executed in counterparts, each of which shall be deemed an original but all of which together shall constitute one and the same instrument binding upon all parties’ signatories thereto. Delivery of an executed signature page of this Agreement by electronic transmission (DocuSign or equivalent or by electronic mail in portable document format (PDF)) will be effective as delivery of a manually executed signature page of this Agreement.
+
+1. **Non-Exclusivity** 
+
+   The Services to be rendered by the Investment Adviser to the Fund under this Agreement shall not be deemed to be exclusive.  The Investment Adviser shall be free to render similar services to other funds, or to the general partners of other funds, and the Fund shall be free to retain the services of any other Person.
+
+[new-page]
+
+IN WITNESS WHEREOF, the parties have caused this Agreement to be executed by their duly authorized officers as of the Effective Date.
+
+**{{carta.gp_entity_name}}**<br>By: [signature-single="gpSignatory"]
+Name: {{gpSignatory.name}}<br>Title: {{gpSignatory.title}} <br>Email: {{gpSignatory.email}}<br>Date: {{ now | date("MMMM Do YYYY") }}
+<br>
+**{{carta.investment_advisor_name}}**<br>By: [signature-single="investmentAdvisorSignatory"]
+Name: {{investmentAdvisorSignatory.name}}<br>Title: {{investmentAdvisorSignatory.title}}<br>Email: {{investmentAdvisorSignatory.email}}<br>Date: {{ now | date("MMMM Do YYYY") }}
+<br>
+**{{ carta.fund_name }}, a series of {{carta.master_entity_name}}**<br>By: [signature-single="gpSignatory"]
+Name: {{gpSignatory.name}}<br>Title: {{gpSignatory.title}} of {{carta.gp_entity_name}},its general partner<br>Email: {{gpSignatory.email}}<br>Date: {{ now | date("MMMM Do YYYY") }}
+				
+
+				

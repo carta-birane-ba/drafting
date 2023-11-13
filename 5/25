@@ -1,0 +1,205 @@
+## <center>Summary of Principal Terms</center>
+
+The following is a summary of certain information about {{ container.name }}  (the **“Fund”**) and an investment in limited partnership interests therein (the **“Interests”**). This summary is qualified in its entirety by reference to the amended and restated limited partnership agreement of the Fund (as further amended and/or restated, the **“Partnership Agreement”**) and the Subscription Agreement of the Fund (the **“Subscription Agreement”**). To the extent that any terms set forth below are inconsistent with those of the Partnership Agreement and/or the Subscription Agreement, the Partnership Agreement and/or the Subscription Agreement, as applicable, will control. 
+
+ 
+[hs]
+
+[h]
+
+[ls]
+
+ **The Fund:**
+
+[c]
+
+ {{ container.name }} is a Delaware limited partnership (the **“Fund”**). 
+
+[ls]
+ **The General Partner:**
+[c]
+ {{container.generalPartnerName}}, a Delaware limited liability company, is the general partner of the Fund (the **“General Partner”**).
+[ls]
+ **The Management Company:**
+[c]
+ The Fund will engage {{ container.managementCompanyName }}, a Delaware limited liability company, to act as the Fund’s management company (**“Management Company”**). {% if container.principalsNumber == '1' %} The individual primarily responsibble for the Fund's investments is {{ container.principals[0].firstname }} {{ container.principals[0].lastname }} (the **"Principal"**) {% elif container.principalsNumber == '2' %} The individuals primarily responsible for the Fund's investments are {{ container.principals[0].firstname }} {{ container.principals[0].lastname }} and  {{ container.principals[1].firstname }} {{ container.principals[1].lastname }}(the **"Principals"**) {% elif container.principalsNumber == '3' %} The individuals primarily responsible for the Fund's investments are {{ container.principals[0].firstname }} {{ container.principals[0].lastname }}, {{ container.principals[1].firstname }} {{ container.principals[1].lastname }} and {{ container.principals[2].firstname }} {{ container.principals[2].lastname }} (the **"Principals"**)  {% elif container.principalsNumber == '4' %} The individuals primarily responsible for the Fund's investments are {{ container.principals[0].firstname }} {{ container.principals[0].lastname }}, {{ container.principals[1].firstname }} {{ container.principals[1].lastname }}, {{ container.principals[2].firstname }},{{ container.principals[2].lastname }} and {{ container.principals[3].firstname }},{{ container.principals[3].lastname }} (the **"Principals"**).{% endif %}<br>The Management Company is not registered, or required to be registered, as an investment adviser, with the Securities and Exchange Commission (the **“SEC”**) or any state.   For more information about the Management Company and the Principals, please refer to the Fund’s marketing materials.
+[ls]
+**Investment Objective and Strategy:**
+[c]
+ The Fund’s investment objective is to generate attractive returns primarily through (i) direct venture capital investments in early-stage private technology companies with a focus on [Ask Client] [***VBN note: we can pull this from a free text question on the questionnaire***]  (each, a **“Portfolio Company”**), (ii) investments in third party-managed special purpose vehicles and/or pooled investment vehicles with the same or similar focus as the Fund’s direct venture capital investments (each, an **“Underlying Fund”**), and/or (iii) other investments, including without limitation, digital assets and/or secondaries of Portfolio Companies (collectively, **“Other Investments,”** and together with Portfolio Companies and Underlying Funds, the **“Portfolio Investments”**).  For the avoidance of doubt, short-term holdings (e.g., cash held in a money market account) will not be considered an Other Investment.  For more information regarding the Fund’s investment objectives and strategy, please refer to the Fund’s marketing materials.
+[ls]
+**Targeted Capital Commitments:**
+[c]
+ The Fund is targeting capital commitments (**“Capital Commitments”**) of up to ${{ container.targetFundSize | financialNumber }} (the **“Target Capital Commitment”**).  However, the General Partner may, in its sole discretion, accept total Capital Commitments of a lesser or greater amount.
+[ls]
+**Minimum Capital Commitment:**
+[c]
+ The minimum Capital Commitment of each of the Fund’s limited partners (the **“Limited Partners”**) is ${{ container.minimumCommitmentFull | financialNumber }} (**“Minimum Capital Commitment”**). However, the General Partner, in its sole discretion, may agree to accept a Capital Commitment from a Limited Partner of a lesser amount.
+[ls]
+**General Partner Capital Commitment:**
+[c]
+ The Principal(s), the General Partner, the Management Company, their affiliates and/or their respective owners, members, shareholders, partners, agents and/or employees (**“GP Affiliated Persons”**) will make an aggregate Capital Commitment to the Fund at least equal to {% if container.gpCommitmentType == 'FIXED' %} ${{ container.gpMinimumCommitment | financialNumber }}. {% elif container.gpCommitmentType == 'PERCENT' %} {{ container.gpMinimumCommitmentPercent }}% of total Commitment. {% endif %} In lieu of, or in addition to, contributing cash to the Fund, one or more of the GP Affiliated Persons may (i) make a “cashless contribution” to the Fund, as described in the Partnership Agreement, and/or (ii) contribute one or more “warehoused” investments in kind to the Fund, provided, that any warehoused investment(s) contributed to the Fund shall be first disclosed to investors.
+[ls]
+**Capital Calls:**
+[c]
+ The General Partner will, from time to time and in its sole discretion, call capital from Limited Partners up to the amount of their respective Capital Commitments.  Upon receipt of a capital call notice, Limited Partners will have at least 10 business days to make a capital contribution to the Fund (each, a **“Capital Contribution”**); provided that at the Fund’s initial closing (the **“Initial Closing”**), the General Partner may, and intends to, make an initial call for Capital Contributions on less than 10 business days’ notice.  Each Limited Partner whose Capital Commitment is less than the Minimum Capital Commitment may, at the General Partner’s sole discretion, be required to contribute 100% of such Limited Partner’s Capital Commitment on or about the closing in which such Limited Partner was admitted to the Fund, and such contribution shall be deemed to satisfy future capital calls from the General Partner. 
+[ls]
+**Closings:**
+[c]
+ The date of the Initial Closing (i.e., when a Limited Partner other than the initial Limited Partner of the Fund, as described in the Partnership Agreement, is admitted to the Fund) will be determined by the General Partner in its sole discretion. The General Partner may accept new Limited Partners and permit existing Limited Partners to increase their Capital Commitments (such new Limited Partners or, with respect to existing Limited Partners making additional Capital Commitments, the existing Limited Partners to the extent of the increase in their Capital Commitments, **“Additional Limited Partners”**) at one or more subsequent closings (each, a **“Subsequent Closing”**).  The General Partner shall determine the date of each Subsequent Closing.  The final Subsequent Closing (the **“Final Closing”**) shall occur within 12 months of the Initial Closing, provided that the General Partner may extend the date of the Final Closing by six additional months with the consent of the Advisory Committee (as defined below) or a majority in interest of the Limited Partners. 
+[ls]
+**Additional Limited Partners:**
+[c]
+ At the time of the Subsequent Closing for which an Additional Limited Partner is admitted to the Fund or permitted to increase its Capital Commitment, such Additional Limited Partner will be required to make a Capital Contribution equal to: (i) the Capital Contributions, other than the Capital Contributions for the Management Fee (as defined below), that such Additional Limited Partner would have made through the date of the applicable Subsequent Closing, as though such Additional Limited Partner was admitted or permitted to increase its Capital Commitment at the Initial Closing; (ii) the Capital Contributions for Management Fees that the Additional Limited Partner would have made through the date of the applicable Subsequent Closing, as though such Additional Limited Partner was admitted or permitted to increase its Capital Commitment at the Initial Closing; (iii) an additional amount, calculated like interest at a rate equal to the prime rate plus 3.00% per annum, on the amount in clause (i), as though such Additional Limited Partner had been admitted or permitted to increase its Capital Commitment at the Initial Closing, unless such amount is waived by the General Partner; and (iv) an additional amount, calculated like interest at a rate equal to the prime rate plus 3.00% per annum, on the amount in clause (ii), as though such Additional Limited Partner had been admitted or permitted to increase its Capital Commitment at the Initial Closing, unless such amount is waived by the General Partner.  The amounts paid by an Additional Limited Partner under clauses (iii) and (iv) will not entitle such Additional Limited Partner to receive any additional Interest in exchange therefor or be deemed to be a Capital Contribution. The amount contributed by the Additional Limited Partner under clause (iii) will be credited to the capital accounts of all the Limited Partners and the General Partner (the **“Partners”**) on a pro rata basis based on their Capital Commitments, and the amounts contributed under clauses (ii) and (iv) shall be distributed to the Management Company. 
+All Additional Limited Partners admitted to the Fund or increasing their Capital Commitment to the Fund after the Initial Closing will be subject to the same terms and conditions of the Fund that applied to the Limited Partners admitted at the Initial Closing, and shall participate in all existing investments of the Fund, provided that if investment(s) of the Fund have been disposed of or made distrobutions prior to the applicable Subsequent Closing, the General Partner may, in its sole discretion, adjust the allocation(s) of future disposition or distrobution proceeds from Portfolio Investment(s) that are made to the Limited Partners, or take such other action as it deems in good faith to be appropriate, to ensure that the Additional Limited Partners are allocated their proportionate share of all disposition or distrobution proceeds.
+[ls]
+**Capital Account:**
+[c]
+ The Fund will establish and maintain a **“Capital Account”** for each Partner.  Each Capital Account’s balance will be: (i) increased by: (A) a Partner’s Capital Contributions and (B) a Partner’s allocated share of Fund profits, both realized and unrealized; and (ii) decreased by: (A) cash distributions and in-kind distributions (using their fair market value at the time of distribution) made by the Fund to a Partner and (B) a Partner’s allocated share of Fund losses, both realized and unrealized. 
+[ls]
+**Investment Period:**
+[c]
+ The General Partner may call capital for new Portfolio Investments during the period commencing as of the Initial Closing and ending on the {% if container.anniversary == 'FIRST' %}1st{% elif container.anniversary == 'SECOND' %}2nd{% elif container.anniversary == 'THIRD' %}3rd{% elif container.anniversary == 'FOURTH' %}4th{% elif container.anniversary == 'FIFTH' %}5th{% endif %} anniversary of the Initial Closing (the **“Investment Period”**).  After the expiration or termination of the Investment Period, or at any time after the commencement of a Suspension (as defined below), until such Suspension has been lifted, the Limited Partners will only be required to make further Capital Contributions with respect to (i) Fund Expenses (as defined below), (ii) investments related to or intended to preserve or enhance the value of investments in existing Portfolio Companies (**“Follow-On Investments”**) provided that in the case of a Suspension, only if such Follow-On Investments are approved by the Advisory Committee or a majority in interest of the Limited Partners, (iii) investments under active consideration by the Fund prior to the end of the Investment Period or, in the case of a Suspension, prior to the date of such Suspension pursuant to a written memorandum of understanding, letter of intent or other written commitment (**“Follow-Up Investments”**), and (iv) to satisfy any capital commitments with respect to then existing investments in Underlying Funds. 
+[ls]
+**Investment Restrictions:**
+[c]
+ The Fund will not invest more than 15% of the aggregate Capital Commitments in any single Portfolio Investment (determined on a cost basis at the time of investment) without the approval of the Advisory Committee (as defined below) or a majority in interest of the Limited Partners; provided that prior to the Final Closing, the aggregate Capital Commitments shall be measured based on the greater of (i) actual Capital Commitments or (ii) the Target Capital Commitment. In addition, the Fund will not invest more than 20% of the actual Capital Commitments (determined on a cost basis at the time of investment) in Underlying Funds and Other Investments. 
+[ls]
+**Fund Expenses:**
+[c]
+ The Fund will pay for all expenses incurred in connection with the organization and formation of the Fund and its related entities (**“Organizational Expenses”**) up to $100,000 (**“Organizational Expense Cap”**).  To the extent the Organizational Expenses exceed the Organizational Expense Cap, the General Partner, the Management Company and/or their affiliates shall be responsible for such excess. Organizational Expenses include any fees, costs and expenses related to the offering of Interests; provided, however, that if the Fund bears any placement agent or finder’s fees (**“Placement Fees”**), the Management Fee shall be reduced by an amount equal to such Placement Fees. 
+The Fund will also pay for all expenses incurred in connection with the Fund’s activities and investments, including the fees, costs and expenses related to sourcing, diligencing, negotiating, evaluating, acquiring, structuring, monitoring and disposing of potential or actual Portfolio Investments; expenses related to forming, organizing and maintaining entities through or in which investments will be made; registered office and agent expenses; transfer, capital, stamp and other taxes or governmental charges, duties and fees; reasonable travel expenses incurred by the General Partner or the Management Company to investigate, evaluate, assess and monitor investments or potential investments; fees, costs and commissions related to banking, brokerage, legal, custodial, administrative, appraisal, valuation, auditing, accounting, tax compliance (including fees incurred to prepare the Fund’s financial statements, tax returns and similar reports) and consulting expenses incurred by the Fund or the General Partner on behalf of the Fund; expenses of any Advisory Committee (as defined below) meetings; fees, costs and expenses of reporting to investors and investor meetings and any other Fund-specific reporting, notification or other filing obligations; fees, costs and expenses incurred in connection with negotiating, preparing and complying with side letters with the Underlying Funds and/or side letters with prospective investors or Partners; fees, costs and expenses incurred in connection with amending the Partnership Agreement; costs of Fund’s compliance with applicable law; reasonable premiums for insurance; costs of winding up and liquidating the Fund including any entities formed for the purpose of making or holding investments; expenses incurred in connection with a Limited Partner that defaults in respect of a Capital Commitment to the Fund; the Management Fees; extraordinary expenses such as litigation, workout and restructuring and indemnification expenses, if any; and any other expense reasonably attributable to the Fund (collectively, **“Fund Expenses”**).
+[ls]
+**Management Company and General Partner Expenses:**
+[c]
+ The Management Company and the General Partner will each bear its own ordinary administrative and overhead expenses, including without limitation, salaries, rent, office costs and utilities.
+[ls]
+**Management Fee:**
+[c]
+{% if container.managementFee == 'TWOPERCENT' %}During the Term (as defined below), but not during any extension(s) of the Term, the Fund will pay the Management Company and/or one or more GP Affiliated Persons a management fee (the **"Management Fee"**) with respect to each Limited Partner quarterly in advance at a rate equal to 2.0% per annum (the **"Base Rate"**) of the Capital Commitment of each Limited Partner. Notwithstanding the foregoing, commencing with the first fiscal quarter beginning on or after the end of the sooner to occur of the end of the Investment Period or the date of the initial closing of a Successor Fund, the Base Rate shall be reduced by 10% of the Base Rate of the fiscal quarter prior to the stepdown (i.e., to 1.8%) and every 12 months thereafter, the Base Rate shall be reduced by 10% of the Base Rate prior to the stepdown. {% elif  container.managementFee == 'TWOFIVEPERCENT' %}During the Term (as defined below), but not during any extension(s) of the Term, the Fund will pay the Management Company and/or one or more GP Affiliated Persons a management fee (the **"Management Fee"**) with respect to each Limited Partner quarterly in advance at a rate equal to 2.5% per annum (the "Base Rate") of the Capital Commitment of each Limited Partner. Notwithstanding the foregoing, commencing with the first fiscal quarter beginning on or after the end of the sooner to occur of the end of the Investment Period or the date of the initial closing of a Successor Fund, the Base Rate shall be reduced by 10% of the Base Rate of the fiscal quarter prior to the stepdown (i.e., to 2.25%) and every 12 months thereafter, the Base Rate shall be reduced by 10% of the Base Rate prior to the stepdown. {% elif  container.managementFee == 'TWOAVERAGE' %}During the Term (as defined below), but not during any extension(s) of the Term the Fund will pay the Management Company and/or one or more GP Affiliated Persons a management fee (the **"Management Fee"**) with respect to each Limited Partner quarterly in advance at a rate equal to 2.5% per annum (the "Base Rate") of the Capital Commitment of each Limited Partner.  Notwithstanding the foregoing, commencing with the first fiscal quarter beginning on or after the sooner to occur of the 4th anniversary of the Initial Closing or the date of the initial closing of a Successor Fund, the Base Rate shall be reduced from 2.5% to 1.5% and shall remain at 1.5% for the remainder of the Term, excluding any extension(s) of the Term. {% else %} “Other - Please specify in notes”{% endif %}
+[ls]
+**Management Fee Offset:**
+[c]
+ 100% of any directors’ fees, including options, warrants and other non-cash forms of compensation,{% if container.consultingTeamMember == 'NO' %} and any compensation, including non-cash forms of compensation, such as options and warrants, paid for consulting or advisory services or for serving as a director,{% endif %} and/or any transaction fees, closing fees or break-up fees in connection with an investment or potential investment with respect to Portfolio Companies paid to the Principal(s), the Management Company and/or the General Partner in connection with the Fund’s investments or potential investments in the Portfolio Companies or from any Portfolio Company (the **“Offset Fees”**) will be applied to reduce the Management Fees subsequently payable to the Management Company and/or one or more GP Affiliated Persons.
+[ls]
+**Distributions:**
+[c]
+ The General Partner will determine, in its sole discretion, when the Fund will make distributions. The General Partner may withhold from any distributions, in its discretion, amounts for (i) expenses and liabilities of the Fund, (ii) reserves for reasonably anticipated expenses and liabilities, (iii) any required tax withholdings and (iv) reinvestments. 
+Proceeds available for distribution, (the **“Distributable Proceeds”**), other than from short-term holdings, will be preliminarily apportioned among the Partners pro rata according to their respective aggregate Capital Contributions. The amount apportioned to the GP Affiliated Person(s) (in connection with their Capital Contribution(s)) will be distributed to the GP Affiliated Person(s).  The Distributable Proceeds preliminarily apportioned to each Limited Partner (other than any GP Affiliated Person(s)) will be further divided between such Limited Partner and the General Partner and distributed in the following priority and manner: 
+
+      - first, 100% to such Limited Partner until such Limited Partner has received distributions pursuant to this clause (i) equal to its Capital Contributions; and
+
+      - thereafter, 80% to the Limited Partner and 20% to the General Partner (the amounts payable to the General Partner under this clause (ii), the **“Carried Interest”** distributions) [***VBN note: we can make this waterfall variable, populated by corresponding questions in the questionnaire.***]
+
+All proceeds from short-term holdings will be distributed to the Partners pro rata in proportion to Capital Contributions and will not be taken into account in determining the General Partner’s Carried Interest.
+
+Prior to the termination of the Fund, distributions will be in cash and/or marketable securities.
+
+Allocations by the Fund of income, gain, loss and deduction shall be consistent with the distributions set out above. 
+[ls]
+**Tax Distributions:**
+[c]
+ The General Partner may receive cash distributions from the Fund to enable it and its members to pay any tax liabilities (including estimated tax liabilities) arising from the General Partner’s receipt of Carried Interest.  For purposes of determining the amount of such distribution, the General Partner may assume that the highest combined federal and state income tax rates of a member of the General Partner applies (the **“Combined Tax Rate”**). Any such distributions shall be treated as an advance of, and shall reduce, future distributions of Carried Interest to the General Partner.
+[ls]
+**Reinvestment:**
+[c]
+ Upon the receipt of proceeds from a Portfolio Investment during the Investment Period, the General Partner, in consultation with the Management Company, may either (i) reinvest (or reserve for reinvestment) or use (or reserve for later use) all or part of the Disposition Proceeds, or (ii) distribute the Disposition Proceeds to the Partners that increase each Partner’s unfunded Capital Commitment by an amount equal to the amounts distributed to it (and such amounts will be subject to recall by the Fund for any purpose that Capital Contributions may be called).  Notwithstanding the foregoing, the aggregate cost basis of all Portfolio Investments made by the Fund will not exceed 120% of aggregate Capital Commitments.
+[ls]
+**General Partner Clawback:**
+[c]
+ As promptly as practicable (but not more than ninety (90) days) after the Fund’s final liquidating distribution, the General Partner will determine whether there was an Over Distribution. An “Over Distribution” means the positive amount determined by subtracting (i) the cumulative distributions that would have been received by the General Partner as Carried Interest determined as if the Fund retained all of the Fund’s distributions to the Partners since inception and made a single distribution to the Partners on the date of the Fund’s final liquidating distribution, from (ii) the cumulative distributions that the General Partner actually received as Carried Interest over the Fund’s term. In the event there is an Over Distribution, the General Partner shall contribute to the Fund for distribution to all Limited Partners (other than Defaulting Partners, as defined below) pro rata the amount of the Over Distribution; provided, that in no event shall the General Partner be required to return an amount greater than the Carried Interest distributions actually received by the General Partner, net of taxes thereon.
+[ls]
+**Return of Distributions:**
+[c]
+ If the Fund incurs any liability or obligation, including pursuant to a recycling obligation or limited partner clawback obligation of the Fund to an Underlying Fund to return distributions it has received from such Underlying Fund, and the amount of reserves and the unfunded Capital Commitments are less than the amount of such liability or obligation, the General Partner may require the Partners to return distributions to the Fund in an amount sufficient to satisfy all or any portion of such liability or obligation; provided, that (i) no distribution may be recalled following the third anniversary of the Fund’s dissolution (except in respect of pending liabilities or obligations) and (ii) the total amount recalled from any Partner shall not exceed the lesser of (A) 25% of such Partner’s Capital Commitment and (B) the aggregate amount of distributions made to such Partner from the Fund.
+[ls]
+**Key Persons:**
+[c]
+ If, prior to the sooner to occur of the end of the Investment Period or the date of the initial closing of a Successor Fund (as defined below), {% if container.principalsNumber == '1' %} The principal {% elif container.principalsNumber == '2' %} one (1) of the two (2) Principals {% elif container.principalsNumber == '3' %} two (2) of the three (3) Principals {% elif container.principalsNumber == '4' %} three (3) of the four (4) Princiapls. {% else %} (i) transfer(s) more than fifty percent (50%) of his or her interest in the General Partner to a third party or (ii) die(s) or (iii) cease(s) to be actively involved in the day-to-day management of the Fund for a period of 180 consecutive days, a **“Key Person Event”** shall be deemed to occur.{% endif %}
+In the event that a Key Person Event is deemed to occur, the General Partner will give prompt written notice thereof to the Limited Partners and the Investment Period shall be suspended (**“Suspension”**).  Upon a Suspension, the Fund may not make any new investments without the approval of the Advisory Committee or a majority in interest of the Limited Partners, other than (i) Follow-On Investments that are approved by the Advisory Committee (as defined below) or a majority in interest of the Limited Partners, or (ii) Follow-Up Investments existing prior to the Key Person Event. 
+Upon the commencement of a Suspension, the Advisory Committee or a majority in interest of the Limited Partners will have 180 days from the date of the Key Person Event to approve a remediation plan for such Key Person Event (thereby lifting the Suspension and allowing the Fund to recommence normal investment activities). If the Advisory Committee or a majority in interest of the Limited Partners does not approve a remediation plan for such Key Person Event within 180 days of the date of the Key Person Event, then the Investment Period shall automatically and immediately be terminated, unless, within such 180-day period, the Advisory Committee or a majority in interest of the Limited Partners vote to lift the Suspension and allow the Fund to recommence normal investment activities.
+[ls]
+**Parallel Fund:**
+[c]
+ To accommodate the legal, regulatory, tax and/or other considerations of certain Limited Partners, the General Partner may form one or more investment vehicles that will invest alongside the Fund and have substantially the same terms as the Fund (each, a **“Parallel Fund”**).  The Fund and each Parallel Fund will generally co-invest in each Portfolio Investment proportionately and make and dispose of each Portfolio Investment on substantially the same terms.
+[ls]
+**Alternative Investment Vehicles:**
+[c]
+ In connection with any investment, the General Partner may form and direct that the Capital Contributions of some or all of the Partners be effected through one or more alternative investment vehicles if, in the sole discretion of the General Partner, the use of such vehicles would allow the Fund to overcome legal or regulatory constraints, be more tax-efficient and/or facilitate participation in certain types of investments. Except as otherwise set forth in the Partnership Agreement, any such vehicles will contain terms and conditions generally comparable to those of the Fund and will be managed by the General Partner, the Management Company or an affiliate thereof.
+[ls]
+**Co-Investment:**
+[c]
+
+ The General Partner may, in its sole discretion, provide or commit to provide co-investment opportunities to one or more Limited Partners and/or other persons, in each case on terms to be determined by the General Partner in its sole discretion. In exercising its discretion to allocate co-investment opportunities with respect to a particular Portfolio Investment to and among potential co-investors and the terms thereof, the General Partner, in consultation with the Management Company, may consider some or all of a wide range of factors.
+[ls]
+**Successor Funds:**
+[c]
+ None of the General Partner, the Management Company or the Principal(s) will accept subscriptions for interests in a new fund (other than any Parallel Funds, Alternative Investment Vehicles, co-investment vehicles or special purpose vehicles) with investment objectives and strategies substantially similar to those of the Fund (a **“Successor Fund”**) until the earlier of (i) the date when at least 75% of the total Capital Commitments have been invested, expended, committed, allocated to or reserved for Portfolio Investments (including any Follow-On Investments and/or Follow-Up Investments) and/or for reasonably anticipated Fund Expenses and obligations or liabilities of the Fund, (ii) the end of the Investment Period or (iii) the winding up and dissolution of the Fund.
+[ls]
+**Default Provisions:**
+[c]
+ If any Limited Partner fails to pay its required Capital Contribution with respect to any portion of its undrawn Capital Commitment or other obligation to the Fund when called by the General Partner, the General Partner will have the right, but not the obligation, to treat such Limited Partner as a “Defaulting Partner.” As specified in the Partnership Agreement, a Defaulting Partner may be subject to significant penalties, including forfeiture of its interest in the Fund.  Non-defaulting Limited Partners may be required to make additional contributions of capital if a Limited Partner defaults, but not in excess of their unfunded Capital Commitments.
+[ls] 
+**Transferability of Interests:**
+[c]
+ A Limited Partner’s Interest may not be sold, assigned, transferred or pledged, except under certain limited circumstances and then only with the prior written consent of the General Partner.  
+[ls] 
+**Advisory Committee:**
+[c]
+ The Fund may establish an advisory committee made up of at least three and not more than five representatives of the Limited Partners approved by the General Partner (the **“Advisory Committee”**), provided that such Limited Partners are not GP Affiliated Persons.  If formed, the Advisory Committee will (i) approve certain actions described in the Partnership Agreement and (ii) provide advice and counsel in connection with any conflicts of interests or potential conflicts of interest that the General Partner reasonably determines are material with respect to the Fund.  Advisory Committee decisions will be authorized by a majority of the Advisory Committee members.  
+[ls] 
+**Indemnification:**
+[c]
+ The Fund will indemnify the GP Affiliated Persons and members of the Advisory Committee (including any Limited Partner represented by a member of the Advisory Committee) and all persons who previously served in such capacities (each, an **“Indemnified Person”**) against all liabilities incurred in connection with such Indemnified Person’s acts or omissions or alleged acts or omissions arising out of their activities on behalf of the Fund, provided that such Indemnified Person acted in a manner reasonably believed by such Indemnified Person to be in the best interest of the Fund and so long as such acts or omissions did not constitute (i) bad faith, fraud, gross negligence (as defined under the laws of the State of Delaware) or willful misconduct or (ii) an intentional and material (A) breach of the Partnership Agreement or (B) violation of applicable law; provided, further, that in the case of an Indemnified Person who is a member of the Advisory Committee (including any Limited Partner represented by a member of the Advisory Committee), such conduct was not taken by such Indemnified Person in bad faith.  
+[ls] 
+**Side Letters:**
+[c]
+ The General Partner, without any further act, approval or vote of any Limited Partner, may enter into side letters or other similar agreements with one or more Limited Partners that have the effect of altering or supplementing the terms of the Partnership Agreement (including, without limitation, economic terms) with respect to such Limited Partners. 
+[ls] 
+**Term:**
+[c]
+ The Fund will be wound up and dissolved 10 years after the Initial Closing (the **“Term”**), subject to extension by the General Partner for up to two additional one-year periods. [***VBN note: variables?***] The General Partner may further extend the Term for one or more additional one-year periods with the consent of the Advisory Committee or a majority in interest of the Limited Partners. 
+[ls] 
+**Reports:**
+[c]
+ The Fund will make commercially reasonable efforts to furnish annually to all Partners {% if container.hasAudit == 'YES' %} audited {% elif container.hasAudit == 'NO' %} unaudited {% endif %}financial statements and IRS Schedule K-1 within 180 days after the end of its fiscal year.  For the first three quarters of each year, each Limited Partner will be furnished with {% if container.hasAudit == 'NO' %} unaudited {% endif %} financial statements, a statement of capital account and a schedule of new and existing investments. Reports and information will be subject to confidentiality restrictions and limitations as set forth in the Partnership Agreement. Each Limited Partner will be required to maintain information provided to it about the Fund or its business in the strictest confidence and to not disclose the information except in certain limited circumstances. 
+[ls] 
+**Tax Aspects:**
+[c]
+ The Fund intends to operate as a partnership and, accordingly, should not be subject to federal income tax.  Each Limited Partner will be required to report on its own annual tax return such Limited Partner’s distributive share of the Fund’s taxable income or loss.
+
+Except as otherwise provided in the Partnership Agreement, the General Partner will use its commercially reasonable efforts to (i) avoid having the Fund treated as income effectively connected with the conduct of a trade or business within the United States (**“ECI”**) under the Internal Revenue Code of 1986, as amended (the **“Code”**), and (ii) conduct the affairs of the Fund to ensure that no tax exempt Limited Partner (or any of its equity owners) will be allocated unrelated business taxable income (**“UBTI”**) within the meaning of Section 512 of the Code; provided, however, that the foregoing shall not apply to (i) any UBTI attributable to indebtedness and guarantees, (ii) any UBTI or ECI attributable to any Offset Fees, or (iii) any UBTI or ECI attributable to direct or indirect (e.g., through an entity established to facilitate the investment into digital assets) investment by the Fund in digital assets, if any. 
+[ls] 
+**Securities Law Matters:**
+[c]
+ {% if container.privateOffering == '506B' %} The Fund will not be registered under the U.S. Investment Company Act of 1940, as amended, pursuant to Section 3(c)(1) 3(c)(7) thereof.  Investors must be “accredited investors” within the meaning of Regulation D of the Securities Act of 1933, as amended, and meet certain other eligibility criteria. and “qualified purchasers,” as such term is defined in Section 2(a)(51) of the Investment Company Act. {% elif container.privateOffering == '506C' %} The Fund will not be registered under the U.S. Investment Company Act of 1940, as amended, pursuant to Section 3(c)(1) 3(c)(7)  thereof. Investors must be “accredited investors” within the meaning of Regulation D of the Securities Act of 1933, as amended (the “Securities Act”), and meet certain other eligibility criteria. and “qualified purchasers,” as such term is defined in Section 2(a)(51) of the Investment Company Act. The Interests will be offered and sold pursuant to Rule 506(c) of Regulation D under the Securities Act. {% else %} The Fund will not be registered under the U.S. Investment Company Act of 1940, as amended, pursuant to Section 3(c)(1) 3(c)(7) thereof. Investors must be “accredited investors” within the meaning of Regulation D of the Securities Act of 1933, as amended, and meet certain other eligibility criteria. and “qualified purchasers,” as such term is defined in Section 2(a)(51) of the Investment Company Act.{/IF} In addition, Investors must be “qualified clients,” within the meaning of Rule 205-3 under the U.S. Investment Advisers Act of 1940, as amended.{% endif %} 
+[ls] 
+**ERISA Considerations:**
+[c]
+ Investors subject to ERISA should consult their own advisors as to the effects of ERISA on an investment in the Fund.  The Fund will use commercially reasonable efforts to conduct the affairs and operations of the Fund in such a manner so that the assets of the Fund will not be treated as “plan assets” of any ERISA Plan for purposes of ERISA. 
+[ls] 
+**Risk Factors and Conflicts of Interest:**
+[c]
+ An investment in the Fund involves a high degree of risk and is suitable only for investors of substantial means who have no immediate need for liquidity of the amount invested and who can afford a risk of loss of all or a substantial part of such investment. There can be no assurance that the Fund’s investment objectives will be achieved or that a Limited Partner will receive a return of its Capital Contributions. Each prospective investor should consult with his, her or its personal legal, tax and financial advisers and carefully consider and evaluate the risks before making an investment in the Fund. 
+One or more of the GP Affiliated Persons engage, or may engage, in a broad range of activities, including investment activities for their own account. In the ordinary course of conducting its activities, the interests of the Fund may conflict with the interests of one or more of the GP Affiliated Persons. 
+[ls] 
+**Auditor:**
+[c]
+ TBD 
+[ls] 
+**Administrator:**
+[c]
+ Carta 
+[ls] 
+**Legal Counsel:**
+[c]
+ TBD 
+[ls] 
+**Contact Information:**
+[c]
+ {{container.generalPartnerName}}<br>{{ container.principals[0].firstname }} {{ container.principals[0].lastname }}<br>{{ container.principals[0].email }}<br>{{ container.principals[0].phoneNumber }}
+[ls] 
+
+
+
+

@@ -1,0 +1,72 @@
+## <center>LIMITED LIABILITY COMPANY AGREEMENT</center>
+## <center>OF</center>
+## <center>{{ container.managementCompanyName }}</center>
+
+**THIS LIMITED LIABILITY COMPANY AGREEMENT** (this **“Agreement”**) of {{ container.managementCompanyName }} (the **“Company”**) is entered into and effective as of {{now | date('DD MMMM YYYY') }} by and between the Company and {{ container.principals[0].firstname }} {{ container.principals[0].lastname }}, as the sole member of the Company (the **“Member”**).
+
+<center>RECITALS</center>
+
+   -	The Company was formed on Month XX, 20XX upon the filing of the Certificate of Formation (the **“Certificate”**) with the Delaware Secretary of State under the name {{ container.managementCompanyName }}.  
+   - The Member and the Company wish to memorialize the terms on which the Company will exist and operate.
+
+<center>AGREEMENT</center>
+
+1. **Formation**: The Company has been organized as a Delaware limited liability company pursuant to the provisions of the Delaware Limited Liability Company Act, Title 6, Corporations Code, Section 18-101 et seq., as amended from time to time (the **“Act”**).
+
+1. **Name**: The name of the Company is "{{ container.managementCompanyName }}".
+
+1. **Effective Date**: This Agreement is effective as of the date first written above.
+
+1. **Purpose**: The Company was formed for the object and purpose of, and the nature of the business to be conducted and promoted by the Company is, engaging in any lawful act or activity for which limited liability companies may be formed under the Act. 
+
+1. **Term**: The term of the Company began on the date the Certificate was filed and will continue until the Company is dissolved and its affairs wound up in accordance with the Act or this Agreement.
+
+1. **Registered Office; Registered Agent**: The address of the registered office of the Company and the name and address of the registered agent of the Company will be as set forth on the Certificate, as that may be amended from time to time.
+
+1. **Capital Contributions**: The Member has contributed such amounts to the capital of the Company as reflected on the Company’s books and records.  
+
+1. **Additional Contributions**: The Member is not required to make any additional capital contributions to the Company, but may do so, in his sole discretion.
+
+1. **Tax Treatment**: The parties intend that the Company be treated as a “disregarded entity” for federal and state income tax purposes.  The Company will not elect to be treated as an association taxable as a corporation under Regulations Section 301.7701-3(c) (or any corresponding applicable provisions of federal, state or local law).
+
+1. **Allocations and Distributions**: All items of income and loss of the Company will be allocated to the Member.  Distributions will be made to the Member at the times and in the amounts determined by the Member.
+
+1. **Management**:
+      - The business of the Company will be managed by the Member, who will have the power to do any and all acts necessary or convenient to, or in furtherance of, the purpose described herein, including powers, statutory or otherwise, possessed by members under the laws of the State of Delaware.  The Member will control the management and operation of the Company in such manner as he determines in his sole discretion.
+		-  The Member may at any time appoint one or more officers of the Company to whom he may delegate some or all of his duties, powers and responsibilities, as set forth in the resolution appointing such officer or as set forth in this Agreement.  Each officer may hold any number of offices.  Each officer may be removed by the Member at any time for any reason.
+		-  Any contract, agreement, deed, lease, note or other document or instrument executed on behalf of the Company by the Member will be deemed to have been duly executed by the Company and third parties will be entitled to rely upon the Member’s power to bind the Company without otherwise ascertaining that the requirements of this Agreement have been satisfied.
+
+1. **Liability and Indemnification**:
+      - The Member will not be liable, in his capacity as such, for the liabilities of the Company.  The failure of the Company to observe any formalities or requirements relating to the exercise of its powers or management of its business or affairs under this Agreement or the Act will not be grounds for imposing liability on the Member for liabilities of the Company.
+		-  The Member or any duly appointed officers of the Company will not be liable to the Company for any act or omission based upon errors in judgment or other fault in connection with the business or affairs of the Company, except for any such liability for losses, claims, damages, liabilities or expenses that a court of competent jurisdiction determines resulted from the fraud or willful violation of law by such Member or officer, as the case may be.  
+		-  The Company will indemnify and hold harmless the Member and any duly appointed officer (an **“Indemnitee”**) to the maximum extent permitted by law, from and against any and all losses, claims, damages, liabilities (joint and several), expenses, judgments, fines, settlements, and other amounts (including legal fees and expenses, as such fees and expenses are incurred) arising from any and all claims, demands, actions, suits, or proceedings (civil, criminal, administrative, or investigative) (i) in which the Indemnitee may be involved, as a party, a threatened party, or otherwise, by reason of his participation in the management of the Company’s affairs or rendering of advice or consultation with respect thereto, or being or having been, at the request of the Company, a general partner, member, director, officer, employee, or agent of any partnership, joint venture, limited liability company, corporation, trust, or other entity, or (ii) that relate to the Company, its business, or its affairs.  Indemnification under this Section 12 will be permitted regardless whether the Indemnitee continues to hold any of the aforementioned positions or continues to act in any of the aforementioned capacities at the time any such liability or expense is paid or incurred.  
+
+1. **Assignment**: The Member may sell, assign, transfer, exchange, mortgage, pledge, grant, hypothecate or otherwise transfer (including by operation of law) all or any portion of his membership interest in the Company.
+
+1. **Admission of Additional Members**: The Member may admit one or more additional members to the Company upon such terms as will be set forth in an amendment or restatement of this Agreement.
+
+1. **Dissolution**:
+      - The Company will be dissolved and its affairs wound up, in the sole discretion of the Member.  
+		-  Upon dissolution, the Company will cease carrying on (as distinguished from the winding up of) the Company’s business, but the Company will not then be terminated, but will continue until the winding up of the affairs of the Company is completed and the Certificate of Dissolution has been issued by the Delaware Secretary of State.
+		-  The winding up of the Company will be completed when all debts, liabilities, and obligations of the Company have been paid and discharged or reasonably adequate provision therefor has been made, and all of the remaining property and assets of the Company have been distributed to the Member.  Upon the completion of winding up of the Company, the Member or other person designated by the Member will deliver a Certificate of Dissolution to the Delaware Secretary of State for filing.  The Certificate of Dissolution will set forth the information required by the Act.
+
+1. **Meetings**: No annual or regular meetings of the Company are required to be held.  However, if such meetings are held, such meetings will be held and conducted pursuant to the Act.
+
+1. **Company Name**: The "{{ container.managementCompanyName }}" name and mark are the properties of the Member.  The Company’s authority to use such name and mark may be withdrawn by the Member at any time without compensation to the Company.  Following the dissolution and liquidation of the Company, all right, title and interest in and to such name and mark will be held solely by the Member.
+
+1. **Governing Law**: The interpretation and enforceability of this Agreement will be governed by, and construed under, the laws of the State of Delaware, all rights and remedies being governed by said laws.  To the extent permitted by the Act and other applicable law, the provisions of this Agreement will supersede any contrary provisions of the Act or other applicable law.
+
+1. **Rights of Creditors and Third Parties**: This Agreement is entered into between the Company and the Member for the exclusive benefit of the Company, its Member, and their successors and assignees.  This Agreement is expressly not intended for the benefit of any creditor of the Company or any other person.  Except and only to the extent provided by applicable statute, no such creditor or third party will have any rights under this Agreement or any agreement between the Company and the Member with respect to any capital contribution or otherwise.
+
+1. **Entire Agreement; Amendment**: This Agreement represents the entire agreement between the Member and the Company and supersedes any prior written or oral agreement respecting the Company.  The Member may amend this Agreement in his sole discretion.
+
+1. **Severability**: In the event any provision of this Agreement is determined to be invalid or unenforceable, such provision will be deemed severed from the remainder of this Agreement and replaced with a valid and enforceable provision as similar in intent as reasonably possible to the provision so severed, and will not cause the invalidity or unenforceability of the remainder of this Agreement.
+
+      **IN WITNESS WHEREOF**, the undersigned, intending to be legally bound hereby, have duly executed this Agreement as of the date first set forth above.
+		
+      MEMBER:
+
+
+      ________________________________
+        {{ container.principals[0].firstname }} {{ container.principals[0].lastname }}
+

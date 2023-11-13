@@ -1,0 +1,108 @@
+<br>
+
+<center># CARRY ASSIGNMENT AGREEMENT</center>
+<br>
+<br>
+
+
+This Carried Interest Assignment Agreement (this “**Agreement**”) is dated and effective as of {{now | date('Do of MMMM YYYY') }} (the “**Effective Date**”), and is made by and among (i) {{carta.gp_entity_name}} (the “**General Partner**”), a Delaware limited liability company, acting in its capacity as the general partner of {{carta.fund_name}} (the “**Fund**”), a series of {{carta.master_entity_name}}, a Delaware multi-series limited partnership, (ii) {{carta.lead_partner_name}}, a Special Partner (the “**Assignor**”), and (iii) {{investor.name}} (the “**Assignee**”).  Capitalized terms used without definition herein have the respective meanings ascribed to them in the Limited Partnership Agreement of the Fund (as the same may be amended from time to time, the “**Partnership Agreement**”).  
+
+### RECITALS
+
+WHEREAS, the Assignor wishes to assign a portion of its interest as a Special Partner in the Fund, including a portion of its right to receive Carried Interest Distributions made to it under Clause 5.1.1(c) of the Partnership and any distributions pursuant to Clause 5.2.1 of the Partnership Agreement in respect thereof, and the Assignee desires to accept such assignment;
+WHEREAS, pursuant to Clause 5.1.1(f) of the Partnership Agreement, the General Partner may, in its sole discretion, allow the Assignor to assign to one or more Persons all or any portion of its interest in the Fund; and 
+WHEREAS, the General Partner now desires to permit the Assignor to assign a portion, or all, of its interest in the Fund to the Assignee in accordance with the terms of this Agreement and the Partnership Agreement, including Clause 7.1 of the Partnership Agreement.  
+NOW, THEREFORE, for and in consideration of the covenants and agreements of the parties made in this Agreement, and for other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties agree as follows:
+
+1. #### Transfer of Carried Interest
+   1. Subject to the terms of this Agreement and the provisions of the Partnership Agreement, including, without limitation, Clause 7.1 of the Partnership Agreement, the Assignor hereby assigns to the Assignee, as of the Effective Date: 
+			a **{{investor.carry_assignment_percentage}}%** share of distributions that the Assignor is entitled to receive as a Special Partner in the Fund, including its right to receive Carried Interest Distributions under Clause 5.1.1(c) of the Partnership Agreement and any distributions pursuant to Clause 5.2 of the Partnership Agreement in respect thereof (the “**Assigned Interest**”).  
+   1. Effective as of the Effective Date, and subject to the provisions of this Agreement and the Partnership Agreement, the General Partner hereby consents to and approves the transfer of the Assigned Interest to the Assignee, and the Assignee is hereby admitted to the Fund as a Substitute Limited Partner and Special Partner in respect of the Assigned Interest.
+   1. Except as otherwise may be required under the Partnership Agreement, the Assignee shall not be required to make a capital commitment or any capital contributions to the Fund. The Assignee shall receive Carried Interest Distributions from the Fund with respect to the Assigned Interest granted herein, as and when the distributions are made by the Fund that are attributable to Carried Interest Distributions and without any set-off or deduction therefrom, except as may otherwise be specified herein or required by applicable law, including any applicable withholding taxes and expenses that are otherwise according to the Partnership Agreement.
+   1. For the avoidance of doubt, the Assigned Interest shall not include any portion of the Assignor’s Class A or B Interest or any right to receive any portion of any allocations or distributions with respect to or attributable to the Assignor’s Total Capital Commitment or aggregate capital contributions to the Fund (and any resulting proceeds attributable thereto).
+   1. Notwithstanding any provision to the contrary in this Agreement or the Partnership Agreement, the Assignee hereby agrees to (i) return any and all distributions made to the Assignee or its designee to the Fund in respect of the Assigned Interest and (ii) forfeit any right to future distributions in respect of the Assigned Interest if, in the sole discretion of any of the Fund, the General Partner or the Investment Adviser determine that the payment of such distribution(s) may result in the violation of applicable law.  
+
+1.	#### Status and Rights of the Assignee.  
+      Effective as of the Effective Date, the Assignee hereby accepts the Assigned Interest, undertakes all obligations of the Assignor pursuant to the Partnership Agreement to the extent attributable to or otherwise arising in connection with the Assigned Interest, makes all of the representations, warranties and acknowledgements of a Limited Partner set forth in the Partnership Agreement, and otherwise agrees to comply with, and be bound pursuant to, all provisions of the Partnership Agreement in its capacity as a Substitute Limited Partner and Special Partner in respect of the Assigned Interest. Without limitation on the foregoing, the Assignee hereby assumes and undertakes to return any distributions made in respect of the Assigned Interest to the extent required by the Partnership Agreement, and to bear any applicable tax in respect of the Assigned Interest as set forth in the Partnership Agreement.  Assignee further agrees that it is solely responsible for all tax obligations, if any, including, but not limited to, all payment obligations that may arise as a consequence of this Agreement.   
+
+1. #### Restricted Transferability
+   Any Transfer by the Assignee of all, or any portion of, the Assigned Interest or any of its rights or interest in the Assigned Interest under the Partnership Agreement or this Agreement shall require the prior written consent of the General Partner, which may be granted or conditioned in its discretion. Notwithstanding anything to the contrary contained herein or in the Partnership Agreement, the Assignee shall have no right to Transfer any portion of Assignee’s Assignee Interest.  The Assignee hereby acknowledges the reasonableness of these restrictions in view of the relationship of the Assignee to the Fund. Any attempted Transfer by the Assignee of all, or any portion of, the Assigned Interest or any of its rights or interest in distributions of Carried Interest Distributions from the Fund attributable to the Assignor’s right to receive Carried Interest Distributions under the Partnership Agreement or this Agreement in violation of the requirements contained in this Clause shall be deemed invalid, null and void, and of no force or effect.  
+
+1. #### Representations & Warranties
+    1. The Assignor and the Assignee represent and warrant to the General Partner that:
+      1. the assignment of the Assigned Interest will comply with all applicable laws and regulations, and the Assignee hereby agrees to be treated as an additional signatory to the Partnership Agreement and re-affirms all the provisions and representations therein as if made by the Assignee as of the Effective Date;
+      1. they agree to and accept the power of attorney terms set forth in the Partnership Agreement, and the Assignee hereby appoints the General Partner as the attorney-in-fact of the Assignee with the power of attorney to sign the Partnership Agreement, and all amendments thereto, on behalf of the Assignee and the General Partner’s signature below acts as such signature;
+      1. they have both read and understood the Partnership Agreement and represent that they have conformed and will comply with each representation and warranty required of each party therein; 
+      1. each of the Assignor and the Assignee shall be responsible for determining its status as an “investment adviser” under the Investment Advisers Act and whether it is required to register as an “investment adviser” under the Investment Advisers Act or any corresponding provision of other applicable law or is otherwise exempt from the registration provisions of the Investment Advisers Act and has made all filings necessary to effectuate such exemption or otherwise avail itself of such exemption, and that neither the Fund, the General Partner, the Investment Adviser nor any of their respective Affiliates assumes any responsibility with respect to such determination; and 
+      1. neither the Fund, the General Partner, the Investment Adviser nor any of their respective Affiliates have made any representation or warranty about:
+         - the tax consequences of the assignment of the Assigned Interest. The Assignor and the Assignee acknowledge that they alone shall bear any taxes owed in connection with the assignment of the Assignment Interest; or
+         - the status of the Assignor or the Assignee as an “investment adviser” under the Investment Advisers Act and whether either such party is required to register as an “investment adviser” under the Investment Advisers Act or any corresponding provision of other applicable law or is otherwise exempt from the registration provisions of the Investment Advisers Act.  
+
+   1. The Assignor represents and warrants to the General Partner that:
+
+      1. it has continually owned or will own all of and is the only owner of the Assigned Interest and no lien or encumbrance applies to the Assigned Interest and no other impediment exists to the proposed transfer of the Assigned Interest to the Assignee, and the consent of no other person other than the General Partner is needed for the Assignor to transfer the Assigned Interest to the Assignee;
+
+      1. it will remain liable for all obligations related to the Carried Interest Distributions under the Partnership Agreement; and
+
+      1. the assignment of the Assigned Interest pursuant to this Agreement shall have no effect on any agreements in place between the Assignor and the Fund, the General Partner and/or the Investment Advisor, which shall remain in full force and effect.
+
+1. ####	Indemnification
+
+   1. The Assignor and the Assignee shall, to the fullest extent permitted by law, jointly and severally indemnify and hold harmless each of the Fund, the Master Partnership, the General Partner, the Investment Adviser, and their respective affiliates, subsidiaries, licensors and assignees and each of their respective officers, directors, managers, stockholders, members, agents, partners and employees (collectively, the “Indemnified Parties”) who was or is a party or is threatened to be made a party to any threatened, pending or completed action, suit or proceeding, whether civil, criminal, administrative or investigative, by reason of any actions or omissions or alleged actions or omissions arising out of or in connection with such Indemnified Party's activities in furtherance of this Agreement.
+
+   1. The Lead Partner agrees to indemnify the Indemnified Parties and hold each of them harmless from and against any and all obligations, liabilities, costs, losses and damages, including, without limitation, reasonable legal fees and expenses, liabilities for taxes, charges and fees, which the applicable Indemnified Party may suffer or incur from time to time, arising out of (i) any inaccuracy in, or breach of, any representation, warranty or agreement of the Lead Partner set forth in this Agreement or the Partnership Agreement or (ii) the Lead Partner’s violation of applicable law.
+
+1. ####	Miscellaneous
+
+   1. This Agreement contains the entire understanding among the parties, and supersedes any prior written or oral agreement among them respecting the subject matter hereof, and there are no representations, agreements, arrangements, or understandings, oral or written, among the parties relating to the transfer contemplated by this Agreement which are not fully expressed in this Agreement and the Partnership Agreement.
+ 
+   1. This Agreement is in all respects subject to the terms and conditions of the Partnership Agreement. If any provision of this Agreement is determined to conflict with the Partnership Agreement or applicable law, such provision shall be deemed severed from the remainder of this Agreement and replaced with a valid provision as similar in intent as reasonably possible to the provision so severed, and shall not cause the invalidity or unenforceability of the remainder of this Agreement.
+ 
+   1. The obligations of the parties pursuant to this Agreement shall survive execution and delivery of this Agreement.
+
+   1. Except with regards to each of the Assignor’s and the Assignee’s obligation to Indemnified Persons as set forth in Clause 6 or as otherwise specifically provided in this Agreement, this Agreement is not intended to confer upon any person other than the parties any rights or remedies under this Agreement.
+
+   1. This Agreement shall be amended only through a written amendment executed by the parties. No failure or delay by any party in exercising any right, power or privilege pursuant to this Agreement shall operate as a waiver thereof; any actual waiver shall be contained in a writing signed by the party against whom enforcement of such waiver is sought.
+
+   1. This Agreement shall be governed by, and construed and enforced in accordance with, the internal laws of the State of Delaware, without regard to its conflicts of laws principles.  Any controversy or claim arising out of or relating to this Agreement shall be resolved, and any costs associated therewith shall be apportioned among the parties, in the same manner as if such controversy or claim had arisen under the Partnership Agreement.
+
+   1. This Agreement may be executed in counterparts, each of which shall be deemed an original but all of which together shall constitute one and the same instrument binding upon all parties’ signatories thereto. Delivery of an executed signature page of this Agreement by electronic transmission (DocuSign or equivalent or by electronic mail in portable document format (PDF) or by completion and submission of an electronically executable package through the Platform) will be effective as delivery of a manually executed signature page of this Agreement.
+
+   1. The clause headings contained in this Agreement are for reference purposes only and shall not affect the meaning or interpretation of this Agreement.
+
+[new-page]
+		IN WITNESS WHEREOF, this Agreement has been executed by each of the parties as of the date first set forth above.
+
+	
+By: [signature-single="leadPartner"]
+Name: {{leadPartner.name}}<br>Email: {{leadPartner.email}}<br>Date: {{ now | date("MMMM Do YYYY") }}
+<br>
+**{{carta.gp_entity_name}}**<br>By: [signature-single="gpSignatory"]
+Name: {{gpSignatory.name}}<br>Title: {{gpSignatory.title}} <br>Email: {{gpSignatory.email}}<br>Date: {{ now | date("MMMM Do YYYY") }}
+<br>
+{# NOTE: There will only ever be one investorSignatory. #}
+{# It is an array to make it 'optional' for the first version of the document which is signed only by the lead partner and the GP. #}
+{# It is then presented to the investor to sign in the closings tool. #}
+{% for investorSignature in investorSignatory %}
+**{{investorSignature.partner_name}}**
+By: [signature-single="investorSignature"]
+Name: {{investorSignature.contact_name}}<br>Email: {{investor.email}}<br>Date: {{ now | date("MMMM Do YYYY") }}
+{% endfor %}
+
+[new-page] 
+### EXHIBIT A
+
+Example of Assignment of Carried Interest
+
+X = A x (B x C)
+
+##### Where:<br>
+
+X = The portion of Carried Interest Distributions (expressed in USD) that the Assignee is entitled to receive under this Agreement.<br>A = The percentage specified in Clause 1.1 of this Agreement (i.e., the Carry Share Percentage).<br>B = The percentage specified in the Assignor’s Lead Partner Agreement with the General Partner and the Investment Adviser (i.e., the percentage of any Carried Interest Distributions made by the Fund that the Assignor is entitled to receive as a Special Partner of the Fund).<br>C = The amount of any Carried Interest Distributions (expressed in USD) available to be made to the General Partner pursuant to the Partnership Agreement.
+
+The following hypothetical is provided for illustrative purposes only and is non-binding:
+
+If: <br>A = 5%<br>B = 20%<br>C = $1,000,000<br>
+
+Then:<br>X = $10,000<br>The Assignee receives $10,000 (X). <br>The Assignor receives $190,000 ((B * C) – X).<br>The General Partner receives $800,000 (C * (1 – B)).
+

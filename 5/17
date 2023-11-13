@@ -1,0 +1,65 @@
+
+<center>
+### Limited Partnership Agreement
+
+#### Of
+
+## {{container.name}}
+</center>
+<br>
+This LIMITED PARTNERSHIP AGREEMENT (this “**Agreement**”) is made and entered into as of {{date.now | date('MMMM DD, YYYY')}}.
+
+<center>W I T N E S S E T H :</center>
+
+WHEREAS, the parties hereto wish to form a limited partnership (the “**Partnership**”).
+NOW, THEREFORE, the parties hereto, intending to be legally bound, hereby agree as follows:
+
+1. FIRST:  The name of the Partnership is {{container.name}}.
+
+1. SECOND:  The Partnership is organized primarily for the object and purpose of (a) acquiring, directly or indirectly, holding for investment, converting and distributing or otherwise disposing of securities and other assets and (b) engaging in such additional acts and activities and conducting such other businesses related or incidental to the foregoing as the General Partner shall reasonably deem necessary or advisable.
+
+1. THIRD:  The principal place of business of the Partnership is: {{container.principalAddress}}.
+
+1. FOURTH:  The name of each member of the Partnership, general and limited, are as follows:
+   [hs]
+   [h]
+   [ls]
+   [c]
+   **Name**
+   [ls]
+   **General Partner**
+   [c]
+   {{container.generalPartnerName}}
+   [ls]
+   **Initial Limited Partner**
+   [c]
+   {{principal.name}}
+   [ts]
+					
+1. FIFTH:  The Partnership shall continue until such time as it shall be terminated by action of the General Partner.
+
+1. SIXTH:  The General Partner agrees to contribute $0.99 to the capital of the Partnership and the Initial Limited Partner agrees to contribute $0.01 to the capital of the Partnership.
+
+1. SEVENTH:  Capital may be contributed by the partners from time to time as agreed by all the partners.
+
+1. EIGHTH:  The capital contribution of any partner may from time to time be returned as agreed by all the partners.
+
+1. NINTH:  The profits and losses of the Partnership in each year shall be divided among the partners in proportion to the respective amounts of capital contributions made or agreed to be made by them.
+
+1. TENTH:  No partner shall have the right to assign its or his Partnership interest.
+
+1. ELEVENTH:  One or more new partners, limited or general, may be admitted to the Partnership upon the approval of the General Partner.
+
+1. TWELFTH:  The right to continue the business on the bankruptcy, dissolution, liquidation or withdrawal of the General Partner is given to the remaining partners.
+
+1. THIRTEENTH:  This Agreement may be amended by agreement among the General Partner and the Initial Limited Partner; provided, however, that upon the addition of the first limited partner to the Partnership (other than the Initial Limited Partner) and the execution of an amended and restated form of this Agreement (the “**Amended Agreement**”) by such first limited partner (other than the Initial Limited Partner): (i) the Initial Limited Partner shall no longer be a partner of the Partnership and (ii) from that time forward this Agreement shall be deemed amended and shall be deemed to contain the terms in the Amended Agreement, subject to amendment in accordance with the terms and conditions contained in the Amended Agreement.
+
+IN WITNESS WHEREOF, the undersigned have executed this Agreement as of the day and year first written above.
+
+GENERAL PARTNER:<br>{{container.generalPartnerName}}
+By:<br>Name:	{{principal.name}}<br>Title:	Manager
+[signature-single='generalPartnerSignatory']
+
+INITIAL LIMITED PARTNER:<br>Name: {{principal.name}}
+[signature-single='principal']
+

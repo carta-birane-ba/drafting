@@ -1,0 +1,16 @@
+## <center>{{ container.name }}</center>
+
+## <center>LIMITED POWER OF ATTORNEY</center>
+
+<br>
+
+*KNOW ALL BY THESE PRESENTS*, that the undersigned, as an authorized person of **{{container.generalPartnerName}}**, the general partner of **{{ container.name }}** (the **“Issuer”**), hereby constitutes and appoints Thomas Vasak, Roman Koidl, Dhruva Krishna, Justin Hunter, John Alexander, Samuel Carlson, and Neil O'Dougherty, each of them signing singly, and with full power of substitution, as the undersigned’s true and lawful attorney-in-fact to:
+   1. prepare, execute in the undersigned’s name and on the undersigned’s behalf, and submit to the U.S. Securities and Exchange Commission (the **“SEC”**) a Form ID and the Form ID Confirming Statement, including amendments thereto, and any other document necessary or appropriate to obtain codes and passwords enabling the undersigned to make electronic filings of Form D with the SEC required by Section 4(a)(2) of the Securities Act of 1933, as amended, and Rule 506 promulgated thereunder, for the Issuer; and
+   
+   1. take any other action of any type whatsoever in connection with the foregoing which, in the opinion of such attorney-in-fact, may be of benefit to, in the best interest of, or legally required by, the undersigned, it being understood that the documents executed by such attorney-in-fact on behalf of the undersigned pursuant to this Limited Power of Attorney shall be in such form and shall contain such terms and conditions as such attorney-in-fact may approve in such attorney-in-fact’s discretion. The undersigned hereby grants to each such attorney-in-fact full power and authority to do and perform any and every act and thing whatsoever requisite, necessary or proper to be done in the exercise of any of the rights and powers herein granted, as fully to all intents and purposes as the undersigned might or could do if personally present, with full power of substitution or revocation, hereby ratifying and confirming all that such attorney-in-fact, or such attorney-in-fact’s substitute, shall lawfully do or cause to be done by virtue of this Limited Power of Attorney and the rights and powers herein granted. The undersigned acknowledges that the foregoing attorneys-in-fact, in serving in such capacity at the request of the undersigned, are not assuming any of the Issuer’s responsibilities to comply with Section 4(a)(2) of the Securities Act of 1933, as amended, Rule 506 thereunder, or any other law, rule or regulation whatsoever. This Limited Power of Attorney shall remain in full force and effect until the undersigned is no longer required to file Form ID or other authenticating documents that may be required, unless earlier revoked by the undersigned in a signed writing delivered to the foregoing attorneys-in-fact.
+
+*IN WITNESS WHEREOF*, the undersigned has caused this Limited Power of Attorney to be executed as of {{date.now | date('MMMM DD, YYYY')}}.
+
+{{ container.name }}<br>By: {{container.generalPartnerName}}, its general partner
+
+By: <br>Name: {{ principal.name }}<br>Title: Manager

@@ -1,0 +1,408 @@
+[cover-start]
+
+###LIMITED LIABILITY COMPANY OPERATING AGREEMENT
+<br>
+###OF
+<br>
+##{{carta.fund_name}}
+<br>
+####As of/
+<br>
+####**{{carta.legal_agreement_as_of_date}}**
+/
+[cover-end]
+
+[/new-page]
+
+<b><u>TABLE OF CONTENTS</u></b>
+<b>[ref-clause="definitions"] - Article I Definitions  4</b>
+<b>[ref-clause="general"] - Article II General 8</b><br>2.1	Name	8<br>2.2	Term 8<br>2.3	Registered Office and Agent	8<br>2.4	Business of the Company	8<br>2.5	Limitation of Liability	8<br>2.6	Treatment of Company	8
+<b>[ref-clause="capital"] - Article III Capital Contributions 8</b><br>3.1	Capital Commitments and Capital Contributions	8<br>3.2	Capital Accounts	8<br>3.3	No Interest	8<br>3.4	Withdrawal of Capital	8
+<b>[ref-clause="membership"] - Article IV Membership, Meetings 9</b><br>4.1	Admission of Additional Members	9<br>4.2	Admission of Members; Percentage Ownership; Carried Interest Percentages	9<br>4.3	Representations and Warranties	9<br>4.4	Expenses of the Company	9<br>4.5	Management of Business	9<br>4.6	Dissociation of a Member	9<br>4.7	Rights of Dissociated Member	9<br>4.8	Spousal Separation	10<br>4.9	Place of Meetings	10<br>4.10	Meetings; Notice	10<br>4.11	Quorum	10<br>4.12	Waiver of Notice	11<br>4.13	Action by Members without a Meeting	11<br>4.14	Members May Participate in Other Activities	11<br>4.15	Confidentiality	11<br>4.16	Removal of a Member	12
+<b>[ref-clause="transfer"] - Article V Transfer and Assignment of Interests 12</b><br>5.1	Restrictions on Transfer; Substitution of Members	12<br>5.2	Consent Necessary to Transfer of Interests	12<br>5.3	Conditions of Transfer	12<br>5.4	Effect of Transfer without Approval	13<br>5.5	Liability for Breach	13
+<b>[ref-clause="management"] - Article VI Management 13</b><br>6.1	Managers	13<br>6.2	Officers	13<br>6.3	Major Decisions	14<br>6.4	Vacancies; Resignations	14<br>6.5	Action by a Manager; Reliance by Third Parties	14<br>6.6	A Manager May Participate in Other Activities	14<br>6.7	Devotion of Time	15<br>6.8	Indemnification	15
+<b>[ref-clause="allocations"] - Article VII Allocations of Net Profit and Net Loss and Distributions 15</b><br>7.1	Allocations of Net Profits and Net Losses	15<br>7.2	Distributions by the Company	15<br>7.3	Regulatory Allocations	16<br>7.4	Tax Allocations; Code Section 704(c) Allocations	16<br>7.5	Other Allocation Rules	16<br>7.6	Deficit Capital Accounts	17
+<b>[ref-clause="books"] - Article VIII Books and Records 17</b><br>8.1	Records and Reports	17<br>8.2	Returns and Other Elections	17<br>8.3	Partnership Representative	17<br>8.4	Delivery of Reports	18
+<b>[ref-clause="dissolution"] - Article IX Dissolution and Winding Up 18</b><br>9.1	Dissolution	18<br>9.2	Winding-up	19<br>9.3	Distribution of Assets on Dissolution	19<br>9.4	Distributions in Kind	19<br>9.5	Certificate of Cancellation	19
+<b>[ref-clause="miscellaneous"] - Article X Miscellaneous Provisions 19</b><br>10.1	Notices	19<br>10.2	Application of Law	20<br>10.3	No Action for Partition	20<br>10.4	Headings and Sections	20<br>10.5	Amendments	20<br>10.6	Number and Gender	20<br>10.7	Binding Effect	20<br>10.8	Counterparts	20<br>10.9	Mediation and Arbitration	21<br>10.10	Severability	21<br>10.11	Entire Agreement	21<br>10.12	Insurance	21<br>10.13	Code Section 83 Safe Harbor Election	21
+
+
+EXHIBIT A	SPOUSAL CONSENT
+
+EXHIBIT B	MEMBERS
+
+EXHIBIT C	MANAGERS
+
+EXHIBIT D	INVESTMENT VEHICLES
+
+[new-page]
+
+##<center>LIMITED LIABILITY COMPANY OPERATING AGREEMENT OF</center>
+
+##<center>{{carta.fund_name}}</center>
+
+This Limited Liability Company Operating Agreement as amended, restated or supplemented from time to time in accordance with the terms hereof, (the "<u>Agreement</u>") of {{carta.fund_name}} (the "<u>Company</u>") is made as of {{carta.legal_agreement_as_of_date}} (the "<u>Effective Date</u>") by and among the managers of the Company (the "<u>Managers</u>") and the individuals and/or entities admitted to the Company as members (the "<u>Members</u>").
+
+<center>**RECITALS**</center>
+
+WHEREAS, the Company was formed under the laws of the State of Delaware pursuant to a Certificate of Formation, which was filed on {{carta.legal_agreement_as_of_date}}, with the Office of the Secretary of State of the State of Delaware
+
+WHEREAS, the parties desire to memorialize the terms on which the Company will exist and operate.
+
+NOW, THEREFORE, in consideration of the mutual promises and agreements herein set forth and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto, intending to be legally bound, hereby agree as follows:
+
+
+
+
+<center>###**Article I**</center>
+
+1. [clause="definitions"]**DEFINITIONS**
+
+   The following terms used in this Operating Agreement will have the meanings set forth below, unless the context otherwise requires:
+   <u>**Act:**</u> The Delaware Limited Liability Company Act, as amended.
+	 <u>**Adjusted Capital Account:**</u> With respect to any Member, the balance in such Member's Capital Account as of the end of the relevant tax year (or other relevant period), after giving effect to the following adjustments:
+   - reducing it for any items described in Treasury Regulation Section 1.704- 1(b)(2)(ii)(d)(4), (5), and (6); and
+	 - increasing it for any amount such Person is obligated to contribute or is treated as being obligated to contribute to the Company pursuant to Treasury Regulation Sections 1.704-1(b)(2)(ii)(c) (relating to partner liabilities to a partnership) or 1.704-2(g)(1) and 1.704-2(i) (relating to minimum gain).
+	 This definition of Adjusted Capital Account is intended to comply with the provisions of Treasury Regulation Section 1.704-1(b)(2)(ii)(d) and shall be interpreted consistently therewith.
+	 <u>**Affiliate:**</u> With respect to any Person, any other Person directly or indirectly controlling, controlled by or under common control with such Person, whether through the ownership of voting securities, by contract or otherwise, or any other Person who is an officer, director, general partner or manager of, or the record and beneficial owner of 10% or more of the equity interests in, any other Person.  For purposes of this definition <i>"control"</i> (including with correlative meanings, the terms <i>"controlling," "controlled by,"</i> and <i>"under common control with"</i>) as applied to any Person, means the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of that Person.
+	 <u>**Assignee:**</u> A Person that is assigned an Interest, but is not admitted as a Member, and has no right to vote or to participate in the management of the business and affairs of the Company but shall be entitled to receive distributions and to be allocated the Net Profits and Net Losses allocable to such Interest, unless otherwise provided herein.
+	 <u>**Business Day:**</u> Any day excluding Saturday, Sunday and any day on which the New York Stock Exchange and The Nasdaq Stock Market are closed.
+	 <u>**Capital Account:**</u> The account established for each Member maintained in a manner that the Managers determine is in accordance with Code Section 704(b) and Treasury Regulations Sections 1.704-1 and 1.704-2.
+	 <u>**Capital Contribution:**</u>For each Member, the amount of capital such Member has contributed to the Company and/or its Affiliates, as set forth opposite such Member's name on Exhibit B under the column entitled "Capital Contribution."
+	 <u>**Carried Interest:**</u> Means the distribution(s) of "carried interest," if any, received by the Company from any Investment Vehicle, pursuant to such Investment Vehicle's Operating Agreement.
+	 <u>**Certificate:**</u> The Company's Certificate of Formation.
+	 <u>**Code:**</u> The Internal Revenue Code of 1986, as amended (or any corresponding provision of succeeding law).
+	 <u>**Company:**</u> Has the meaning provided for in the preamble hereof.
+	 <u>**Deadlock:**</u> Failure by the Managers to agree on a course of action in respect of any of the actions concerning the business or affairs of the Company or to resolve a conflict within thirty (30) days of the date such disagreement or conflict first arises.
+	 <u>**Disputing Member:**</u> Has the meaning provided for in Section 10.9(a) hereof.
+	 <u>**Dissociated Member:**</u> Has the meaning provided for in Section 4.6 hereof.
+	 <u>**Dissociated Member Event:**</u> Has the meaning provided for in Section 4.7 hereof.
+	 <u>**Dissolution Notice:**</u> Has the meaning provided for in Section 4.8(b) hereof.
+	 <u>**Fair Market Value:**</u> With respect to the Company at any date, three (3) times the Company's trailing net income (pre-tax) for the previous twelve (12) months.
+	 <u>**Indemnitee:**</u> Has the meaning provided for in Section 6.6 hereof.
+	 <u>**Interest:**</u> An ownership interest in the Company and all rights and liabilities associated therewith, at any particular time, including, without limitation, rights to distributions (liquidating or otherwise), allocations, information and to consent to or approve of various matters related to the Company, as provided in this Operating Agreement.
+	 <u>**Investment Vehicles:**</u> The investment vehicles set forth in <u>Exhibit D</u>.
+	 <u>**Liquidation Share:**</u> With respect to a Member, the amount such Member would be entitled to upon a liquidation of the Company where the net proceeds available for distribution to the Members (after all fees, costs and expenses of such liquidation) equaled the Fair Market Value of the Company.
+	 <u>**Majority in Interest of the Members:**</u>The Members whose Interests represent more than 50% of the Interests held by all Members.
+	 <u>**Management Fees:**</u> Means the fees, if any, received by the Company from any Investment Vehicle for managing such Investment Vehicle's investments, pursuant to such Investment Vehicle's Operating Agreement.
+	 <u>**Manager:**</u> Each Person designated as a Manager on <u>Exhibit C</u>. The Managers shall act by a majority of the Managers (voting by head-count), which action may be taken by written consent of a majority of the Managers (by head-count) in lieu of a meeting.
+	 <u>**Member:**</u> Each Person designated as a Member on <u>Exhibit B</u>.
+	 <u>**Net Loss or Net Profit:**</u> For any period, the items of income, gain, loss and deduction for purposes of maintaining Capital Accounts.
+	 <u>**Operating Agreement:**</u> This Limited Liability Company Operating Agreement, as it may be amended from time to time.
+	 <u>**Operating Expenses:**</u> All operating expenses of the Company including (a) engaging in any business activity pursuant to Section 2.4, (b) legal, audit (if any) and accounting fees; (c) the cost of any insurance as required in connection with the business of the Company; (d) the expenses of revising, amending or modifying this Operating Agreement or terminating the Company; (e) reasonable expenses in connection with preparing and mailing reports required to be furnished to Members for investor, tax reporting or other purposes, or other reports to the Members that are deemed to be in the best interest of the Company; (f) costs incurred in connection with any litigation in which the Company is involved, as well as in any examination, investigation, or other proceedings conducted by any regulatory agency with jurisdiction over the Company, including legal and accounting fees incurred in connection therewith; and (g) compensation of consultants to the Company.
+	 <u>**Percentage Ownership:**</u> For each Member, the percentage set forth opposite such Member's name on Exhibit B under the column entitled "Percentage Ownership."
+	 <u>**Permanent Disability:**</u>The inability of a Manager, due to a physical or mental disability, for a period of one hundred and eighty (180) consecutive days to perform the essential functions of a Manager contemplated under this Operating Agreement, with or without reasonable accommodations.
+	 <u>**Person:**</u> An individual, corporation, partnership, limited liability company, association, joint-stock company, trust, unincorporated organization, or a government or political subdivision thereof.
+	 <u>**Regulatory Allocations:**</u> Has the meaning provided for in Section 7.3 hereof.
+	 <u>**Revised Partnership Audit Provisions:**</u> Code Sections 6221 through 6241, as may be amended, and including any Treasury Regulations or other administrative guidance promulgated by the Internal Revenue Service thereunder or successor provisions and any comparable provision of non-U.S. or U.S. state or local law.
+	 <u>**Transfer:**</u> Or derivations thereof, of an Interest means, as a noun, the sale, assignment, exchange, pledge, hypothecation or other disposition of an Interest, or any part thereof, directly or indirectly, or the sale, assignment, exchange, pledge, hypothecation, or other disposition of a controlling interest in the equity securities of a Member, and as a verb, voluntarily to transfer, sell, assign, exchange, pledge, hypothecate or otherwise dispose of.
+	 <u>**Treasury Regulations:**</u> The Income Tax Regulations, including Temporary Regulations, promulgated under the Code, as such regulations may be amended from time to time (including corresponding provisions of succeeding regulations).
+	 <u>**Valuation Date:**</u> Valuation Date has the meaning provided for in Section 4.7(c) hereof.
+
+[new-page]
+
+   <center>###**Article II**</center>
+
+1. [clause="general"]**GENERAL**
+
+   1. **Name**.  The name of the Company will be "{{carta.fund_name}}." The Company may conduct business under that name or any other name as determined by the Managers.
+   1. **Term**.  The term of existence of the Company will be perpetual, unless the Company is earlier dissolved in accordance with this Operating Agreement or the Act.
+   1. **Registered Office and Agent**.  The registered office of the Company will be the office of the initial registered agent named in the Certificate or such other office selected by the Managers from time to time. The registered agent of the Company is the initial registered agent named in the Certificate or another Person or Persons selected by the Managers from time to time.
+   1. **Business of the Company**.  The Company may engage in any lawful act or activity for which limited liability companies may be organized under the Act. The Company shall have any and all lawful powers necessary or desirable to carry out the purposes and business of the Company.
+   1. **Limitation of Liability**.  No Member shall be liable for the debts, obligations or liabilities of the Company, including without limitation under any judgment, decree or order of a court.
+   1. **Treatment of Company**.  The Members intend that the Company be treated as a partnership, rather than as an association taxable as a corporation, for federal income tax purposes. No Member may cause the Company to elect to be taxed as an association under Treasury Regulations Section 301.7701-3(c).
+
+   <center>###**Article III**</center>
+
+1. [clause="capital"]**CAPITAL CONTRIBUTIONS**
+
+   1. **Capital Contributions**.  Each Member has made a contribution to the capital of the Company and/or its Affiliates in the amount shown opposite the Member's name in the column entitled "Capital Contribution" on <u>Exhibit B,</u> which is attached hereto and incorporated herein by reference and may be amended from time to time.
+   1. **Capital Accounts**. The Company will establish a Capital Account for each Member. The Company will determine and maintain each Capital Account in accordance with Code Section 704(b) and Treasury Regulations Sections 1.704-1 and 1.704-2.
+   1. **No Interest**.  The Company will not pay any interest on Capital Contributions.
+   1. **Withdrawal of Capital.  **A Member shall not be entitled to withdraw any part of such Member's Capital Account or to receive any distribution from the Company, except as provided in this Agreement.
+
+   <center>###**Article IV**</center>
+
+1. [clause="membership"]**MEMBERSHIP; MEETINGS**
+
+   1. **Admission of Additional Members**.  Except as provided in Section 4.2 and Article V, the Members listed on <u>Exhibit B,</u> as of the Effective Date, shall be the sole Members of the Company and no additional Members may be admitted to the Company.
+   1. **Admission of New Members**.  The Managers may admit new Members into the Company subject to Section 6.3(a).
+   1. **Representations and Warranties**.  Each Member hereby represents and warrants to the Company and to the other Members that (a) the Member has full power and authority to execute and agree to this Operating Agreement and to perform his obligations under this Operating Agreement, and that all actions necessary for the due authorization, execution, delivery and performance of this Operating Agreement have been duly taken; (b) the Member has duly executed and delivered this Operating Agreement; and (c) the Member's authorization, execution, delivery and performance of this Operating Agreement does not conflict with any other agreement or arrangement to which the Member is a party or by which the Member is bound.
+   1. **Expenses of the Company**. The expenses of the Company, such as its organizational expenses and its Operating Expenses, shall be paid for by the Capital Contributions of the Members.
+   1. **Management of Business**. No Member (other than a Member acting in the capacity of a Manager or an officer, employee or agent of the Company or except as otherwise provided herein) shall take part in the operation, management or control (within the meaning of the Act) of the Company's business, transact any business in the Company's name or have the power to sign documents for or otherwise bind the Company.
+   1. **Dissociation of a Member**. The death, incapacity, bankruptcy or dissolution of a Member (i) will cause such Member to be dissociated from the Company (a "<u>Dissociated Member</u>"), and (ii) will terminate the continued membership of such Member in the Company.
+   1. **Rights of Dissociated Member**. In the event any Member becomes a Dissociated Member ("<u>Dissociated Member Event</u>"):
+
+      - The Company shall have the right to repurchase the Interest of the Dissociated Member from the Legal Representative of the Dissociated Member. The Company shall exercise such right by delivery to the Legal Representative of notice of its election to purchase such Interest within sixty (60) days of the date on which the Company learns of the event causing such dissociation. The repurchase price shall be an amount equal to the Liquidation Share of the Dissociated Member on the date that notice is delivered hereunder.
+      - If the Company does not elect to repurchase the Interest pursuant to Section 4.7(a), the Legal Representative of the Dissociated Member shall be entitled to continue in the status of an Assignee and shall be entitled to 100% of the distributions and allocations of Net Profits and Net Losses allocable to its Interest, <span style="text-decoration:underline;">provided,</span> that this Agreement may not be amended without the Consent of the Legal Representative of the Dissociated Member if such amendment would materially and adversely affect such Legal Representative's rights under this Section 4.7(b).
+      - In the event the Interest of a Dissociated Member is purchased under this Section 4.7, interest shall accrue from the date on which the Interest is valued (the "<u>Valuation Date</u>") to the date on which full payment for the Interest is made. The interest rate shall be the short-term applicable federal funds rate, compounded monthly, for the month which includes the Valuation Date (as published by the Internal Revenue Service).
+
+	 1. **Spousal Separation**.
+
+      - In the event of the dissolution of the marriage or the legal separation of a Member, if applicable, any Interest which is or would otherwise be awarded to such Member's spouse incident to the dissolution of marriage or legal separation in settlement of any community property or other marital property rights, shall entitle the spouse of such Member only the rights of an Assignee under this Operating Agreement.
+      - If applicable, each Member shall promptly provide the Company with written notice (the "<u>Dissolution Notice</u>") of (i) the entry of any judicial decree or order resolving the property rights of the Member and the Member's spouse in connection with their marital dissolution or legal separation or (ii) the execution of any contract or agreement relating to the distribution or division of such property rights. The Dissolution Notice shall be accompanied by a copy of the actual decree of dissolution or settlement agreement between the Member and the Member's spouse which provides for the award to the spouse of an Interest in settlement of any community property or other marital property rights.
+      - Each Member who is a married person agrees that at the time that Member executes this Operating Agreement, he shall supply a signed consent by that Member's spouse, in the form attached hereto as <u>Exhibit A,</u> by which that Member's spouse agrees to be bound by the provisions of this Operating Agreement.
+
+   1. **Place of Meetings**. No annual or regular meetings of the Members are required. However, for purposes of discussing and voting on any action under this Operating Agreement, the Members shall meet at the principal executive office of the Company. Alternatively, the Members may discuss and vote on any action through use of telephones or similar communications equipment, provided that the Members can communicate with and hear each other.
+   1. **Meetings; Notice**.
+
+      - Meetings of the Members to discuss and vote on any action or for any purpose or purposes, may be called at any time by any Member. Notice of the time and place of meetings shall be delivered personally; by electronic mail; or by first-class mail, charges prepaid, and addressed to the other Members at their respective addresses as they appear in the records of the Company. In case such notice is mailed, it shall be deposited in the United States mail at least five (5) Business Days prior to the time of the holding of the meeting. In case such notice is delivered personally, by electronic mail, it shall be so delivered at least three (3) Business Day prior to the time of the meeting. The notice need not specify the purpose of the meeting.
+      - Only Persons whose names are listed as Members on the records of the Company at the close of business on the Business Day immediately preceding the day on which notice of the meeting is given or, if such notice is waived, at the close of business on the Business Day immediately preceding the day on which the meeting is held (except that the record date for Members entitled to give consent to action without a meeting shall be determined in accordance with Section 4.13) shall be entitled to receive notice of and to vote at such meeting, and such day shall be the record date for such meeting. Any such vote may be _viva voce _or by ballot.
+
+   1. **Quorum**. The presence at any meeting in person or by proxy of a Majority in Interest of the Members shall constitute a quorum for the transaction of business at such meeting. The Members present at a duly called or held meeting at which a quorum is present may not continue to transact business (other than to call for and to adjourn such meeting), from and after the time of the withdrawal of a sufficient number of Members to leave less than a quorum.
+   1. **Waiver of Notice**. The actions of any meeting of Members, however called and noticed, and wherever held, shall be as valid as if taken at a meeting duly held after regular call and notice, if a quorum be present either in person or by proxy, and if, either before or after the meeting, each person entitled to vote, not present in person or by proxy, signs a written waiver of notice or a consent to a holding of the meeting, or an approval of the minutes thereof. The waiver of notice, consent or approval need not specify either the business to be transacted or the purpose of any regular or special meeting of Members. All such waivers, consents or approvals shall be filed with the Company records and made a part of the minutes of the meeting. Attendance of a Member at a meeting shall also constitute a waiver of notice of and presence at such meeting, except when the Member expressly objects to the transaction of any business because the meeting is not lawfully called or convened, and except that attendance at a meeting is not a waiver of any right to object to the consideration of matters required to be included in the notice but not so included, if such objection is expressly made at the meeting.
+   1. **Action by Members without a Meeting**. Any action which, under any provision of the Act or this Operating Agreement, may be taken at a meeting of the Members, may be taken without a meeting, and without notice except as hereinafter set forth, if a consent in writing, setting forth the action so taken, is signed by the Member or Members having not less than the minimum number of votes that would be necessary to authorize or take such action at a meeting at which all Members entitled to vote thereon were present and voted. All such consents shall be filed with the Company and shall be maintained in the Company's records. Unless the consents of all Members entitled to vote have been solicited in writing, prompt notice shall be given of the taking of any action approved by the Members without a meeting by less than unanimous written consent to those Members entitled to vote who have not consented in writing. The record date for such determination shall be the day on which the first written consent is given. Any Member giving a written consent, or the Member's proxyholders, or a personal representative of the Member or their respective proxyholders, may revoke the consent by a writing received by the Managers prior to the time that written consents of the number of votes required to authorize the proposed action have been filed with the Managers, but may not do so thereafter. Such revocation is effective upon its receipt by the Managers.
+   1. **Members May Participate in Other Activities**. This Operating Agreement shall not prevent any Member, either individually or with others, from participating in other business activities and ventures of any kind. No Member, acting in the capacity of a Member, shall be obligated to offer to the Company or to the other Member any opportunity to participate in any such other business activity or venture. Neither the Company nor any Member shall have any right to any income or profit derived from any such other business activity or venture of a Member.
+   1. **Confidentiality**. Each Member agrees not to disclose, communicate, use to the detriment of the Company or any of its Affiliates, or for the benefit of any other Person, or misuse in any way any confidential information or trade secrets of the Company, including without limitation processes, techniques, research, analysis and/or other proprietary information developed by or on behalf of the Company by a Member or otherwise, customer, investor or client lists or other information, marketing plans, pricing, formulas, and other data. Nothing in this Section 4.15 shall affect the rights of a Member with respect to any information of the Company after it becomes generally available to the public for reasons other than such Member's breach of this Section 4.15 or to disclose information in accordance with the requirements of any applicable law or court or administrative order. The Members acknowledge and agree that damages would not adequately compensate the Company if the representations contained in this Section 4.15 were breached by a Member. Consequently, notwithstanding Section 10.9, each Member agrees that in the event of any such breach, the Company shall be entitled to enforce any or all of the representations contained in this Section 4.15 by an injunction or other equitable relief, in addition to (and not in limitation of) any other remedies, and without being required to post any bond or other security.
+   1. **Removal of a Member**. The Managers may remove a Member subject to Section 6.3(a).  If a Member is removed, such removed Member's Interest shall be purchased by the Company and/or one or more of the remaining Members for an amount equal to the Liquidation Share of the removed Member's Interest as of the date on which it is purchased.
+
+   <center>###**Article V**</center>
+
+1. [clause="transfer"]**TRANSFER AND ASSIGNMENT OF INTERESTS**
+
+   1. **Restrictions on Transfer; Substitution of Members**. No Member may Transfer all or any part of such Member's Interest except in accordance with the terms and conditions set forth in this Article V.
+   1. **Consent Necessary to Transfer of Interests**.
+
+      - Subject to the additional restrictions provided for in Section 5.3, a Member may only Transfer such Member's Interest (or portion thereof) with the consent of the Managers, which may be withheld for any reason or no reason. A Member shall provide the Managers with at least ten (10) days prior written notice of the Member's intention to Transfer his Interest.
+      - A Member may not Transfer all or any part of such Member's Interest unless such Transfer will not (and, at the discretion of the Managers, such Member obtains from counsel selected by such Member and reasonably acceptable to the Managers, an opinion that such Transfer will not): (i) violate any applicable federal or state securities laws or regulations, nor subject the Company to registration as an investment company or election as a "business development company" under the Investment Company Act of 1940, as amended, (ii) require any Member, any Manager or any Affiliate of a Member or Manager to register as an investment adviser under the Investment Advisers Act of 1940, as amended, or any comparable state law, (iii) violate any other federal, state or local laws, (iv) cause the Company to be treated as an association taxable as a corporation for federal income tax purposes or as a publicly traded partnership, (v) cause the Company, any Member or any Manager, to the extent not currently treated as an ERISA fiduciary, to be treated as an ERISA fiduciary or (vi) otherwise violate this Operating Agreement.
+
+   1. **Conditions of Transfer**. In the event the requirements of Section 5.2 are met, the Managers shall execute a written consent to such Transfer. Upon receipt of such written consent, the transferring Member has a right to Transfer to the proposed transferee the portion of such Member's Interest specified in such consent, subject to the following conditions:
+
+      - Such Transfer is consummated within sixty (60) days from the date of such approval;
+      - The transferee executes a copy of this Operating Agreement and agrees to be bound hereby, or otherwise becomes subject to this Operating Agreement by such other means as are reasonably satisfactory to the Managers;
+      - Such Transfer is made strictly in accordance with the terms of the proposed Transfer and in compliance with the requirements of Section 5.2; and
+      - The transferee pays any reasonable expenses incurred in connection with his, her or its admission as a new Member.
+
+   1. **Effect of Transfer without Approval**. Any purported Transfer of all or any part of a Member's Interest which is not in compliance with this Article V shall be void and, except as provided in Section 5.5, shall be of no effect.
+   1. **Liability for Breach**. Notwithstanding anything to the contrary in this Article V, any Member purporting to Transfer such Member's Interest or any part thereof in violation of this Article V shall be liable to the Company and the other Members for all liabilities, obligations, damages, losses, costs and expenses (including reasonable attorneys' fees and court costs) arising as a direct or consequential result of such noncomplying transfer, attempted transfer or purported transfer, including specifically, any additional cost or taxes created by noncompliance with any of the requirements and conditions provided for in this Article V.
+
+   <center>###**Article VI**</center>
+
+1. [clause="management"]**MANAGEMENT**
+
+   1. **Managers**. Subject to the provisions of the Act and any limitations in this Operating Agreement as to action required to be authorized or approved by the Members, the business and affairs of the Company shall be managed and all its powers shall be exercised by the Managers. Without prejudice to such general powers, but subject to the same limitations, it is hereby expressly declared that the Managers shall have the following powers:
+
+      - to conduct, manage and control the business and affairs of the Company and to make such rules and regulations therefor not inconsistent with law or with this Operating Agreement, as the Managers shall deem to be in the best interests of the Company;
+      - to appoint and remove at the pleasure of the Managers, the agents of the Company, to prescribe their duties and to fix their compensation;
+      - to borrow money and incur indebtedness for the purposes of the Company and to cause to be executed and delivered therefor, in the Company's name, promissory or convertible notes, bonds, debentures, deeds of trust, mortgages, pledges, hypothecations or other evidences of debt and securities therefor; and
+      - to acquire property, arrange financing, enter into contracts and complete all other arrangements needed to effectuate the business of the Company.
+
+      In the event of a Deadlock with respect to a particular action, the Managers shall promptly notify the Members in writing of such Deadlock, and such Members shall resolve the Deadlock as soon as reasonably practicable by taking such action as is approved by a Majority in Interest of the Members.
+
+   1. **Officers**. The Managers may, from time to time, appoint one or more Persons to be officers of the Company. Any officers so appointed shall have the title and such authority and perform such duties as the Managers may, from time to time, delegate to them. The same Person may hold any number of offices. The Managers may remove any officer from office in their sole discretion. No officer shall be entitled to any compensation from the Company, but may receive such compensation from the Company, as determined by the Managers in their sole discretion.
+   1. **Major Decisions.  **Notwithstanding the provisions of Section 6.1 or any other provision of this Operating Agreement, unless the Company has received the consent of a Majority in Interest of the Members, the Managers shall not:
+
+      - admit a new Member to the Company or remove a Member from the Company;
+      - approve a voluntary dissolution of the Company pursuant to Section 9.1(a);
+      - agree to continue the business of the Company after an event of dissolution specified in Section 9.1(b);
+      - approve a merger, conversion, consolidation or other reorganization of the Company;
+      - appoint a replacement Manager;
+      - authorize or approve a sale of all or substantially all of the assets of the Company;
+      - amend the Certificate or this Operating Agreement, including the Exhibits;
+      - require any Member to increase such Member's Capital Contribution;
+      - divert any of the fees generated from the Company to a third party.
+
+   1. **Vacancies; Resignations**.
+
+      - A vacancy shall be deemed to exist in case of a Manager's death, resignation or removal, declaration of bankruptcy under the laws of any jurisdiction, mental incompetence adjudged by a court of competent jurisdiction in any state or country (including, without limitation, any territory, dependency or possession of the United States of America), Permanent Disability or conviction by any court in any state or country (including, without limitation, any territory, dependency or possession of the United States of America) of any felony. Except as otherwise expressly provided for herein, such Manager shall cease to be a Manager of the Company effective immediately upon the occurrence of any such event.
+      - Any Manager may resign effective upon giving thirty (30) days written notice to the Members, unless the notice specifies a later time for the effectiveness of such resignation.
+      - In the case of any vacancy or resignation of a Manager, the remaining Managers shall be entitled to designate the replacement or successor Manager pursuant to Section 6.3(d).
+
+   1. **Action by a Manager; Reliance by Third Parties**. Persons dealing with the Company are entitled to rely conclusively upon the power and authority of a Manager.
+   1. **A Manager May Participate in Other Activities**. A Manager, either singly or with others, shall have the right to participate in other business activities and ventures of every kind. A Manager shall not be obligated to offer to the Company or to the Members any opportunity to participate in any such other business activity or venture. Neither the Company nor the Members shall have any right to any income or profit derived from any such other business activity or venture of a Manager.
+   1. **Devotion of Time**. Except as otherwise provided in this Operating Agreement (or in any written agreement between the Company and the Managers), the Managers will devote as much of their time and effort to the operations and investment activities of the Company as the Managers deem necessary.
+   1. **Indemnification**. To the fullest extent permitted by applicable law, each of the Managers and officers of the Company (each an "<u>Indemnitee</u>") will be indemnified and held harmless by the Company to the extent that the Company's assets are sufficient therefor, from and against all claims, liabilities, and expenses of any third party arising out of any management of the affairs of the Company, but excluding those caused by gross negligence, fraud, willful misconduct or the material breach of this Operating Agreement or applicable law by the Indemnitee. These indemnification rights are in addition to any rights that the Indemnitee may have against third parties.
+
+   <center>###**Article VII**</center>
+
+1. [clause="allocations"]**ALLOCATIONS OF NET PROFIT AND NET LOSS AND DISTRIBUTIONS**
+
+   1. **Allocations of Net Profits and Net Losses.  **Net Profits and Net Losses for each taxable year (or other relevant period) shall, except as otherwise required by Section 7.3 or the Code and the Treasury Regulations, be allocated amongst the Members for such taxable year (or other relevant period) so as to produce, as nearly as possible, an Adjusted Capital Account balance for each Member (determined without regard to reductions for distributions made to the Member during the taxable year (or other relevant period)) equal to the following:
+
+      -  the sum of the cash and fair market value of property actually distributed to the Member within such taxable year (or other relevant period), _plus_
+      -  the hypothetical cash that would be distributed to such Member if: (1) each of the Company's assets were sold for an amount of hypothetical cash equal to the sum of (A) the "book values" of the assets (as determined in accordance with Treasury Regulation issued under Code Section 704) at the end of such taxable year (or other relevant period), <u>plus</u> (B) the aggregate "partnership minimum gain" and "partner nonrecourse debt minimum gain (each, as determined in accordance with Treasury Regulation Section 1.704-2) at the end of such taxable year (or other relevant period); (2) the Company paid all of its liabilities in accordance with their terms up to the amount of the hypothetical cash; and (3) the remaining hypothetical cash from such deemed sale were immediately distributed under Section 7.2.
+
+   1. **Distributions by the Company**.
+
+      - Subject to the reasonably anticipated business needs and opportunities of the Company and to any restrictions under applicable law (including, without limitation, any obligation to withhold and remit any amounts to any governmental authority), the Managers shall resolve from time to time to distribute cash or other property, including cash or other property attributable to any Carried Interest and/or Management Fees, to the Members in proportion to their Percentage Ownership.
+      - To the extent the Managers reasonably determine that the Company is required by law to withhold or to make tax or any other payments on behalf of or with respect to any Member (or direct or indirect shareholder, member, or other owner of such Member), including withholding taxes, and state unincorporated business taxes, and payments pursuant to the Revised Partnership Audit Provisions ("<u>Tax Advances</u>"), the Managers may withhold such amounts and make such tax payments as so required.  All Tax Advances made on behalf of a Member shall, in the sole discretion of the Managers, (i) be promptly paid to the Company by the Member on whose behalf such Tax Advances were made or (ii) be repaid by reducing the amount of the current or next succeeding distribution or distributions which would otherwise have been made to such Member or, if such distributions are not sufficient for that purpose, by so reducing the proceeds of liquidation otherwise payable to such Member. Whenever the Managers select option (ii) pursuant to the preceding sentence for repayment of a Tax Advance by a Member, for all other purposes of this Agreement such Member shall be treated as having received all distributions (whether before or upon liquidation) unreduced by the amount of such Tax Advance. To the fullest extent permitted by law, each Member hereby agrees to indemnify and hold harmless the Company and the other Members from and against any liability (including, without limitation, any liability for taxes, penalties, additions to tax or interest) with respect to income attributable to or distributions or other payments to such Member.  A Member's obligation to pay or indemnify for a tax or payment (and related interest and penalties) shall survive the Member selling or otherwise disposing of its interest in the Company and the termination, dissolution, liquidation, or winding up of the Company.
+
+   1. **Regulatory Allocations**. The provisions of the Treasury Regulations relating to "qualified income offsets," "minimum gain chargebacks" and "partner nonrecourse debt minimum gain chargebacks" are all hereby incorporated by reference. All "nonrecourse deductions" within the meaning of the Treasury Regulations shall be allocated in accordance with Section 7.1. All "partner nonrecourse deductions" within the meaning of the Treasury Regulations shall be allocated to the Member who bears the economic risk of loss, determined in accordance with Section 1.704-2 and 1.752-2 of the Treasury Regulations, for the partner nonrecourse liability giving rise to such partner nonrecourse deductions.  Net Losses allocated pursuant to Section 7.1 shall not exceed the maximum amount of Net Losses that can be so allocated without causing a Member to have a deficit balance in such Member's Capital Account at the end of any fiscal year in excess of such Member's obligation to restore such amount (including any deemed obligations pursuant to the Treasury Regulations). All such items of Net Loss in excess of the limitation set forth in the prior sentence shall be allocated to Members not so restricted, pro rata, in proportion to the amounts they may be so allocated without violating such restriction. Any allocations made pursuant to the foregoing provisions of this Section 7.3 ("<span style="text-decoration:underline;">Regulatory Allocations</span>") shall be taken into account in computing subsequent allocations pursuant to this Section 7.3 and Section 7.1 so that, to the maximum extent possible, the net amount of all such allocations shall be equal to what they would have been had this Section 7.3 not been part of this Operating Agreement; provided, that Regulatory Allocations that have not yet been made, but are likely to be made in the future, shall be taken into account in computing such subsequent allocations.
+   1. **Tax Allocations; Code Section 704(c) Allocations**. Except as otherwise provide in this Section 7.4, all items of income, gain and loss for federal and state income tax purposes shall be allocated in accordance with the corresponding "book" income, gain and loss. Notwithstanding any other provision in this Article VII, in accordance with Code Section 704(c) and the Treasury Regulations promulgated thereunder, items of income, gain, loss, and deduction with respect to any property of the Company shall, solely for tax purposes, be allocated among the Members so as to take account of any variation between the adjusted basis of such property to the Company for federal income tax purposes and its "book" value for purposes of maintaining Capital Accounts. Allocations pursuant to this Section 7.4 are solely for purposes of federal, state and local taxes. As such, they shall not affect or in any way be taken into account in computing a Member's Capital Account or share of Net Profit, Net Loss, or other items or distributions pursuant to any provisions of this Operating Agreement.
+   1. **Other Allocation Rules.  **If all or any portion of an Interest is Transferred during any fiscal year of the Company (or other relevant period), each item of income, gain, loss, deduction, or credit of the Company for such fiscal year (or other relevant period) allocable to the holder of such Interest for such fiscal year shall be allocated between such holder and its transferee in accordance with Code Section 706 using any convention permitted by Code Section 706 and selected by the Manager.
+   1. **Deficit Capital Accounts**. Notwithstanding anything to the contrary contained in this Operating Agreement, and notwithstanding any custom or rule of law to the contrary, no Member shall be required to restore any deficit balance in such Member's Capital Account upon dissolution of the Company or otherwise, such deficit shall not be an asset of the Company and such Member shall not be obligated to contribute such amount to the Company to bring the balance of such Member's Capital Account to zero.
+
+   <center>###**Article VIII**</center>
+
+1. [clause="books"]**BOOKS AND RECORDS**
+
+   1. **Records and Reports**. At the expense of the Company, the Managers will maintain records and accounts of all operations and expenditures of the Company. At a minimum, the Company will keep at its principal place of business the following records:
+
+      - A current list that states: (i) the name and mailing address of each Member and (ii) the Percentage Ownership of each Member;
+      - Copies of the federal, state and local information or income tax returns for each of the Company's six (6) most recent tax years (or such shorter period that the Company has been in existence);
+      - A copy of the Certificate and this Operating Agreement, all amendments or restatements thereof, executed copies of any powers of attorney, and copies of any document that creates, in the manner provided by the Certificate or this Operating Agreement, classes or groups of Members;
+      - Correct and complete books and records of account of the Company; and
+      - Any other books, records or documents required by this Operating Agreement, the Certificate, the Act or other applicable law.
+
+   1. **Returns and Other Elections**. The Managers will cause the preparation and timely filing of all tax returns required to be filed by the Company pursuant to the Code and all other tax returns deemed necessary and required in each jurisdiction in which the Company does business. Copies of the returns, or pertinent information therefrom, shall be furnished to the Members within one hundred and twenty (120) days after the end of each fiscal year. All elections permitted to be made by the Company under federal or state laws will be made by the Managers.
+   1. **Partnership Representative**. {{carta.partnership_representative}} is hereby authorized to take the actions ultimately required to be designated as a "partnership representative" (or to designate an individual to act as partnership representative) for purposes of the Revised Partnership Audit Provisions, and to take any and all actions that the "partnership representative" is authorized to take with respect to taxable years of the Company to which the Revised Partnership Audit Provisions apply. The "partnership representative" will inform the other Member of all significant matters that may come to its attention in its capacity as "partnership representative," as applicable, by giving notice thereof on or before seven (7) days after becoming aware thereof and, within that time, will forward to the other Member copies of all significant written communications it may receive in that capacity.  The partnership representative shall use its reasonable efforts to apply the rules and elections under the Revised Partnership Audit Provisions so that no Member will bear any material tax as a result of any audit or proceeding that is attributable to another Member (other than a predecessor in interest). The partnership representative is hereby authorized to take any action required or permitted (including, at the reasonable discretion of the partnership representative, making an election under Section 6226 of the Code) to cause the financial burden of any "imputed underpayment" (as determined under Section 6225 of the Code) and associated interest, adjustments to tax and penalties arising from a partnership-level adjustment that are imposed on the Company, and the cost of contesting any such partnership-level adjustment, to be borne by the Members and former Members to whom such imputed underpayment relates as determined by the partnership representative after consulting with the Company's accountants or other advisers, taking into account any differences in the amount of taxes attributable to each Member because of such Member's status. All Members (and former Members) agree to cooperate with, and to take all reasonable actions requested by the partnership representative and the Company, to avoid or reduce any tax imposed under Section 6225 of the Code, including cooperating with any election under Section 6226 of the Code, or to otherwise allow the Company and the partnership representative to comply with the Revised Partnership Audit Provisions. The obligations of a Member under this Section 8.3 shall survive a Member's sale or other disposition of its interests in the Company and the termination, dissolution, liquidation, or winding up of the Company.
+   1. **Delivery of Reports**. If requested by a Majority in Interest of the Members, the Managers shall deliver the following reports to the Members as provided herein:
+
+      - *Interim Financial Reports.* Within thirty (30) days of the end of each calendar quarter, the Managers shall deliver to the Members an income statement, balance sheet and statement of cash flows for such calendar quarter and for the year-to-date, calculated in accordance with U.S. generally accepted accounting principles.
+      - *Annual Financial Statements.* Within ninety (90) days of the end of each calendar year, the Managers shall deliver to the Members the annual financial statements prepared by an independent certified public accountant in accordance with U.S. generally accepted accounting principles.
+
+   <center>###**Article IX**</center>
+
+1. [clause="dissolution"]**DISSOLUTION AND WINDING UP**
+
+   1. **Dissolution**. The Company will be dissolved and its affairs will be wound up upon the first to occur of the following:
+
+      - A decision by the Managers to dissolve the Company, subject to Section 6.3(b);
+      - On the death, retirement, resignation, expulsion, legal incapacity, dissolution or bankruptcy of all of the Managers, unless the Members appoint a new Manager or Managers and elect to continue the business of the Company;
+      - The entry of a decree of judicial dissolution under the Act;
+      - A Deadlock is not resolved by the Members within ninety (90) days of the date on which they are provided written notice of the Deadlock; and
+      - The Act so requires and the requirement is not validly varied by the Certificate or this Operating Agreement.
+
+   1. **Winding-up**.
+
+      - On dissolution of the Company, the business and affairs of the Company will terminate, and the assets of the Company will be liquidated and the Company's affairs will be wound up under this Article IX.
+      - Dissolution of the Company is effective as of the day on which the event giving rise to the dissolution occurs, but the Company shall not terminate until there has been a winding up of the Company's business and affairs and the Company's assets have been distributed as provided in Section 9.3. The Members shall continue to share in Net Profits and Net Losses as provided for in Article VII during the dissolution process.
+
+   1. **Distribution of Assets on Dissolution**. In settling accounts after dissolution, the assets of the Company will be paid in the following order:
+
+      - First, to creditors, in the order of priority as provided by law, except those to the Members on account of their Capital Contributions;
+      - Second, amounts necessary to establish, for a period not to exceed one (1) year after the date of dissolution, cash reserves that are reasonably necessary for any contingent or unforeseen liabilities or obligations of the Company; and
+      - Third, to the Members in accordance with Section 7.2(a).
+
+   1. **Distributions in Kind**. Assets of the Company will be distributed to the Members entitled thereto as tenants-in-common in the same proportions as the Members would have been entitled to cash distributions if the property had been sold for cash and the net proceeds distributed to the Members. If distributions in kind are made to the Members on dissolution and winding up of the Company, the Capital Account balances of those Members will be adjusted to reflect the Members' allocable share of gain or loss that would have resulted if the distributed property had been sold at its fair market value.
+   1. **Certificate of Cancellation**. When all liabilities and obligations of the Company have been paid or discharged, or adequate provision has been made therefor, and all of the remaining property and assets of the Company, if any, have been distributed to the Members according to their respective rights and interests, a certificate of cancellation shall be executed on behalf of the Company by the Managers or an authorized Member and shall be filed with the Office of the Secretary of State of the State of Delaware, and the Members shall execute, acknowledge and file any and all other instruments necessary or appropriate to reflect the dissolution and the completion of the winding up of the Company.
+
+   <center>###**Article X**</center>
+
+1. <center>[clause="miscellaneous"]**MISCELLANEOUS PROVISIONS**</center><br>
+
+   1. **Notices**.
+
+      - Any notice, notification, demand or request provided or permitted to be given under this Operating Agreement must be in writing and will have been deemed to have been properly given, unless explicitly stated otherwise, if sent by (i) Federal Express or other comparable overnight courier, (ii) registered or certified mail, postage prepaid, return receipt requested, or (iii) electronic mail with voice confirmation during normal business hours to the place of business of the recipient.
+      - For purposes of all notices, the addresses, electronic mail addresses and phone numbers of the Members are set forth on <span style="text-decoration:underline;">Exhibit B.</span>
+      - Except as otherwise provided in this Operating Agreement, all notices, notifications, demands or requests so given will be deemed given and received (i) if mailed, seven (7) days after being deposited in the mail; (ii) if sent via overnight courier, the next Business Day after being deposited; or (iii) if sent via electronic mail, the Business Day in which voice confirmation is received by the recipient.
+
+   1. **Application of Law**. This Operating Agreement and the application or interpretation hereof, shall be governed exclusively by the laws of the State of Delaware and, specifically, the Act.
+   1. **No Action for Partition**. No Member may maintain any action for partition with respect to the property of the Company.
+   1. **Headings and Sections**. The headings in this Operating Agreement are inserted for convenience only and do not describe, interpret, define or limit the scope, extent or intent of this Operating Agreement or any provision hereof. Unless the context requires otherwise, all references in this Operating Agreement to Sections or Articles will be deemed to mean and refer to Sections or Articles of this Operating Agreement.
+   1. **Amendments**. The Certificate and this Operating Agreement, including the exhibits hereto, may be amended, supplemented, or restated by the Managers, subject to Section 6.3(g).
+   1. **Number and Gender**. Where the context so indicates, the masculine includes the feminine and the neuter, the neuter includes the masculine and feminine, and the singular includes the plural.
+   1. **Binding Effect**. Except as otherwise provided, this Operating Agreement will be binding upon and inure solely to the benefit of the Managers, the Members and their respective distributees, heirs, Legal Representatives, executors, administrators, successors and assigns.
+   1. **Counterparts**. This Operating Agreement may be executed in multiple counterparts, each of which is considered an original and will be binding upon the Member who executed the same, but all of such counterparts will constitute the same agreement.
+   1. **Mediation and Arbitration**
+
+      - Except as otherwise provided in this Operating Agreement, any controversy with respect to this Operating Agreement or the Company, whether arising before or after this Operating Agreement, between or among any Members ("<u>Disputing Members</u>") will be resolved by mediation or arbitration before a single arbitrator. The mediation and any arbitration under this Operating Agreement will be administered by and held in accordance with the Commercial Mediation or Commercial Arbitration Rules of the American Arbitration Association, as applicable.  The mediation or any arbitration proceeding will be held in {{carta.city}}, {{carta.state}} The Disputing Members shall, before the commencement of arbitration proceedings, attempt in good faith to settle their dispute by mediation.  The Disputing Members shall bear the cost of mediation equally.
+      - The costs of the arbitration, the arbitrator's fee and costs for the use of facilities during the hearings, shall be borne equally by the Disputing Members that are parties to the arbitration. Attorneys' fees may be awarded to the prevailing or most prevailing party at the discretion of the arbitrator. The award of the arbitrator will be final and binding on the parties, and judgment upon the award rendered may be entered in any court, state or federal, having jurisdiction.  The arbitrator shall not have any power to alter, amend, modify or change any of the terms of this Agreement, nor to grant any remedy, which is either prohibited by the terms of this Agreement, or not available in a court of law.
+      - The Disputing Members hereby agree to use all deliberate speed to attempt resolution of any dispute through the mediation process within sixty (60) days from the date of any dispute.  If the dispute cannot be resolved through the mediation process, then the Disputing Members shall submit the dispute to arbitration.  The Disputing Members hereby agree to use all deliberate speed to attempt resolution of any dispute through the arbitration process within ninety (90) days from the date it is submitted to arbitration.
+
+   1. **Severability**. If any provision of this Operating Agreement is held to be illegal, invalid or unenforceable under present or future laws effective during the term hereof, the legality, validity, and enforceability of the remaining provisions of this Operating Agreement shall not be affected thereby, and in lieu of such illegal, invalid, or unenforceable provision, there shall be added automatically as a part of this Operating Agreement a provision as similar in terms to such illegal, invalid, or unenforceable provision as may be legal, valid, and enforceable.
+   1. **Entire Agreement**. This Operating Agreement, including the exhibits and schedules hereto, constitutes the entire agreement between the parties relating to the subject matter hereof, and supersedes all previous contracts and agreements between the parties hereto, both oral and written. This Operating Agreement will not be construed as a contract between the Company and a Member regarding employment, the provision of services to the Company or any other subject other than the terms set forth in this Operating Agreement.
+   1. **Insurance**. The Company may purchase and maintain insurance on behalf of any Person who is or was a Member, Manager, officer, employee or agent of the Company or who is or was serving at the request of the Company as an officer, partner, venturer, proprietor, trustee, employee, agent or similar functionary or another Person against any liability.
+   1. **Code Section 83 Safe Harbor Election**.
+
+      - By executing this Agreement and notwithstanding anything else in this Agreement, each Member authorizes and directs the Company to elect to have the "Safe Harbor" described in the Proposed Revenue Procedure set forth in the Internal Revenue Service Notice 2005-43 (the "<u>Notice</u>") apply to any Interest in the Company transferred to a service provider by the Company on or after the effective date of such Revenue Procedure in connection with services provided to the Company. For purposes of making such Safe Harbor election, {{carta.partnership_representative}} constitutes execution of a "Safe Harbor Election" in accordance with Section 3.03(1) of the Notice. The Company and each Member hereby agree to comply with all requirements of the Safe Harbor described in the Notice, including, without limitation, the requirement that each Member shall prepare and file all federal income tax returns reporting the income tax effects of each Safe Harbor Interest issued by the Company in a manner consistent with requirements of the Notice.
+      - A Member's obligation to comply with requirements of this Section 10.13 shall survive each Member's ceasing to be a Member of the Company and/or termination, dissolution, liquidation and winding up of the Company.
+      - Notwithstanding anything to the contrary in this Agreement, each Member authorizes the Managers to amend this Agreement to the extent necessary to achieve substantially the same tax treatment with respect to any Interest in the Company transferred to a service provider by the Company in connection with services provided to the Company as set forth in Section 4 of the Notice (_e.g_., to reflect changes from the rules set forth in the Notice in subsequent Internal Revenue Service guidance); <u>provided,</u> <u>however</u>, that, without the consent of more than a Majority in Interest of the affected Members, no such amendment shall be made that would have an adverse effect on such Members as compared to the after-tax consequences to such Members if the provisions of the Notice applied and the Safe Harbor election were properly made.
+
+[new-page]
+
+The undersigned, being the initial and sole Members of the Company, do hereby ratify, confirm and approve the adoption of this Operating Agreement as of {{carta.legal_agreement_as_of_date}}, as the Operating Agreement of the Company, and for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, do hereby assume and agree to be bound by and to perform all of the terms and provisions set forth in this Operating Agreement.
+
+{% for member in members %}
+{% if member.member_type == "entity" %}
+{{ member.entity }}
+{% endif %}
+[signature-single="member"]
+By:	________________________________
+Name: {{member.name}}
+{% if member.member_type == "entity" %}
+Title: {{member.individual_title}}
+{% endif %}
+{% endfor %}
+
+[new-page]
+
+<center><u>**Exhibit A**</u></center>
+
+<center>**SPOUSAL CONSENT**</center>
+
+The undersigned are the spouses (referred to individually as "<u>spouse</u>" or collectively as "<u>spouses</u>") of the Members of the Company. Each spouse acknowledges that he or she has read and understands the Operating Agreement. Each spouse understands that by signing the Operating Agreement, each Member has agreed that the Member's Interest in the Company, including any portion of that Interest that is the community property of the Member and that Member's spouse, shall be subject to all the provisions of the Operating Agreement. Each spouse agrees to be bound by the provisions of the Operating Agreement in their entirety, including, but not limited to, those provisions of the Operating Agreement governing the sale or transfer of Interests in the Company. Each spouse further agrees that in the event his or her Member spouse predeceases him or her, or in the event of his or her and the Member spouse's dissolution of marriage or legal separation, the non-Member spouse will not devise all or any part of any community property interest that he or she may have in the Member's Interest in the Company in violation of this Operating Agreement. The spouse of each Member understands and acknowledges that the Member is operating or managing the business of the Company to the extent provided in the Operating Agreement and that the Member has and will continue to have the primary management and control of the Company's business, as provided in the Operating Agreement, to the maximum extent that the Member may lawfully do so.
+
+{% for spouse in spouses %}
+[signature-full="spouse"]
+{% endfor %}
+
+[new-page]
+
+<u><center>**Exhibit B**</center></u>
+
+**MEMBERS**
+
+**Updated as of {{carta.legal_agreement_as_of_date}}**
+
+[table-start-border]
+   Member Name
+[table-header]
+   Percentage Ownership
+[table-header]
+   Contact Information
+  {% for member in members %}
+[table-line]
+  {% if member.member_type == "entity" %}{{ member.entity }}{% else %}{{member.name}}{% endif %}
+[table-column]
+  {% if (member.ownership_percent | length) > 7 %}{{ member.ownership_percent | truncate(6, true, "") }}{% else %}{{ member.ownership_percent | truncate(5, true, "") }}{% endif %}%
+[table-column]
+  {{member.address_line_1}}
+	{{member.address_line_2}}
+	{{member.city}}, {{member.state}} {{member.postal_code}}
+	{{member.email}}
+	{{member.phone_number}}
+  {% endfor %}
+[table-line]
+  Total
+[table-column]
+  100.00%
+[table-column]
+[table-stop]
+
+[new-page]
+
+<center><u>**Exhibit C**</u></center>
+
+**MANAGERS**
+
+**Updated as of {{carta.legal_agreement_as_of_date}}**
+
+[table-start-border]
+   Manager Name
+[table-header]
+   Contact Information
+  {% for member in members %}
+  {% if member.is_entity_manager == true %}
+[table-line]
+  {% if member.member_type == "entity" %}{{ member.entity }}{% else %}{{member.name}}{% endif %}
+[table-column]
+  {{member.address_line_1}}
+	{{member.address_line_2}}
+	{{member.city}}, {{member.state}} {{member.postal_code}}
+	{{member.email}}
+	{{member.phone_number}}
+  {% endif %}
+  {% endfor %}
+[table-stop]
+
+[new-page]
+
+<center><u>**Exhibit D**</u></center>
+
+**INVESTMENT VEHICLES**
+
+**Updated as of {{carta.legal_agreement_as_of_date}}**
+
+
+* **{{carta.investment_vehicle}}**

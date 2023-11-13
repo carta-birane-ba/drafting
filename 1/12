@@ -1,0 +1,249 @@
+{{now | date('MMM DD, YYYY') }}
+
+{{carta.contact_first_name}} {{carta.contact_last_name}}<br>{{carta.contact_title}}<br>{{carta.firm_name}}<br>{{carta.contact_address_line_1}}<br>{% if carta.contact_address_line_2 !== '' %}{{carta.contact_address_line_2}}<br>{% endif %}{{carta.contact_city}}, {{carta.contact_state}} {{carta.contact_postal_code}}
+
+Dear {{carta.contact_first_name}},
+
+This letter is to confirm our understanding of the terms and objectives related to the engagement of Carta Investor Services, Inc. ("Carta IS", "Carta", or "we") by {{carta.firm_name}} ("Client" or "you"), to provide the software and services for the Client set forth in this letter (the "Engagement") as of the date signed by both parties below (the "Effective Date").
+
+**Scope of Services**
+
+We will provide the software and services listed below and detailed in the order form and exhibit(s) attached hereto for the duration of the Engagement.
+
+*{{carta.spv_display_title}} Formation & Administration Services*<br>{% if carta.use_carta_tax == true %}*SPV Tax Return Preparation Services*<sup>1</sup>{% endif %} <br>{% if carta.use_carta_formations_for_manager_entity == true %}*GP Formation Services*{% endif %}<br>{% if carta.use_carta_kyc_aml == true %}*Due Diligence Services*{% endif %}
+
+
+Our assistance in processing the annual reports will be limited to the preparation and delivery of the financial information, solely denominated in U.S. Dollars and in accordance with U.S. Generally Accepted Accounting Principles ("U.S. GAAP").
+
+We will not audit or perform any attestation or certification services, nor will we provide tax advisory services. Client (and your auditors and tax advisors) will be solely responsible for the compliance of the financial statements with U.S. GAAP or other applicable accounting standards, tax allocations of the fund, operating agreements and applicable tax laws. All of Carta IS's services will be performed as part of Client's record keeping operations. We do not provide public accounting services. Accordingly, we will not undertake any examination, verification or investigation of your financial transactions or accounting records.
+
+________________________
+{% if carta.use_carta_tax == true %}<sup>1</sup> Carta IS and BDO USA, LLP, a registered accounting firm (“BDO”), have entered into a services agreement whereby BDO provides certain tax return preparation services to certain eligible Carta clients. Any engagement for the performance of services is at BDO’s sole discretion and subject to acceptance of BDO’s additional terms. Neither BDO nor Carta, nor any of their respective affiliates, will be liable for any damages caused in any way or arising from the use of the other party’s services or reliance upon the information provided by the other party. Client consents to sharing of Client data between Carta IS and BDO as needed to provide Client with the services. {% else %}{% endif %}
+
+Carta, 333 Bush Street, Floor 23, Number 2300, San Francisco, CA 94104
+[new-page]
+Carta IS will provide the services and related reports in Carta IS's standard format and shall not be responsible for any work not specifically enumerated in this engagement letter, the order form, or the exhibits below, including but not limited to, any information, report, or filing that may be required by any limited partner or governing or regulatory body which require preparation in accordance with any standard other than U.S. GAAP. Except as expressly set forth herein, Carta IS shall not be responsible for any state, federal, or foreign reporting or regulatory filing requirements, and any such requirements shall be solely the responsibility of Client.
+
+*Template SPV Documents and Legal Matters*
+
+
+Carta IS will provide Client with Carta IS’s template SPV documents, which are described in Exhibit 2.  Client must use such template documents as provided, and Carta IS will not accommodate any further customization or modification. Carta IS also recommends that Client engage legal counsel to advise Client on Client’s obligations under applicable securities and other laws and to assist Client with any state, federal or foreign regulatory filing requirements.
+
+Client agrees and acknowledges (i) that Carta IS does not provide legal advice or legal services to Client, (ii) that Carta IS’s services to Client shall not be deemed to be legal recommendations or advice to Client, (iii) the provisions of the template SPV documents, and Carta IS’s explanation or description of any of the terms and provisions of the template SPV documents, will not be taken in any way to constitute legal advice from Carta IS to Client, (iv) Carta IS is not responsible for ensuring that, or determining whether, Client is in compliance with Client’s obligations under applicable law, and (v) Client is solely responsible for understanding its obligations under, and complying with, all applicable law.
+
+Client agrees that none of Carta IS, nor any of its affiliates, shall be liable to Client for any damages, costs, expenses or losses caused in any way or arising from (i) Client’s use of Carta IS’s services and/or the template SPV documents, (ii) any information provided to Client by Carta IS in connection with Carta IS’s services and/or the template SPV documents, or (iii) Client’s failure to comply with Client’s obligations under all applicable law.
+
+**Client Assistance**                                                    
+We will require your assistance from time to time to perform the services hereunder. If there are delays or rework caused by you, we will inform you of such delays or rework, with an estimate of the amount of time required to complete any related work or other services. We will not commence any rework or other services without your prior written approval, provided that we will invoice you, and you will pay, for any rework or other services approved by you upon receipt of such invoice. Such additional work will be billed at $200 per hour.  
+**Fees**
+
+The fees for this Engagement are described and outlined below in Addendum 1.
+
+We reserve the right to reassess the fees we charge for the SPV Formation & Administration Services based on, among other things, our evaluation of the number of subsequent closes, material changes in your valuation policy, the amount of committed capital, the number of portfolio investments, the number or type of investors and any potential additions to reporting requirements. We also reserve the right to reassess fees based upon any change that Client makes to the template SPV documents and Client's other legal documents, including but not limited to, any side letters entered into between Client and its investors.                                            
+Certain expenses are billed in addition to Carta IS's software and services fees. These include actual out-of-pocket costs for supplies, postage, travel, etc. We expect such expenses to be minimal. Any expenses greater than $500 (individual or in aggregate) will require prior approval from the Client.                                                                               
+Any work we perform for Client in response to any audit, final accounting or investigation of Client (other than Client's regular periodic audits) or litigation concerning Client will be billed at Carta IS's standard hourly rate in effect at the time such work is performed. 
+**Term and Termination**
+
+The initial term of this Engagement begins on the Effective Date and shall continue as described by the Subscription Term in Addendum 1 below (the "Initial Term"). The Engagement for the SPV Administration Services will automatically renew for subsequent one (1) year periods ("Renewal Terms") upon the expiration of the Initial Term and continuously thereafter. If Client terminates this Engagement during the Initial Term: (i) Client shall concurrently pay to Carta IS any and all unpaid fees, costs, expenses or other amounts under this Engagement Letter or any Engagement Letter addendum for the then-current term; (ii) Client shall not receive any refund or rebate of fees, costs, expenses or other amounts already paid; and (iii) Carta IS shall be released from any further obligations under this Engagement Letter and any Engagement Letter addendum. For avoidance of doubt, the fees to be paid concurrently by Client for a termination under this paragraph includes all fees due for the full Initial Term without any offsets, discounts or promotional pricing previously extended to Client.
+
+**Billing Procedures**
+
+Billing will begin at the commencement of the Engagement. We will send you invoices as set forth in Addendum 2 and such invoices will be payable upon issuance.
+
+This engagement letter, together with the Master Subscription Agreement (https://carta.com/msa) (the "MSA"), constitutes the entire agreement between the Client and Carta IS with respect to the Engagement, supersedes all other oral and written representations, understandings or agreements relating to this engagement, and may not be amended except by the mutual written agreement of the Client and Carta IS.                                                        
+Please indicate your agreement to this engagement letter and the MSA by signing below.
+
+We appreciate your selection of Carta Investor Services.
+
+
+
+[SIGNATURE PAGE FOLLOWS]
+
+[new-page]
+
+IN WITNESS WHEREOF, the parties have caused their duly authorized representatives to sign this engagement letter on their behalf as of the Effective Date:
+
+
+  
+[table-start]
+[table-line]
+   Carta Investor Services, Inc
+[table-column]
+   {{carta.firm_name}}
+[table-line]
+  <br>
+[table-column]
+ <br>
+[table-line]
+  By:
+[table-column]
+  By: 
+[table-line]
+  <br>
+[table-column]
+ <br>
+[table-line]
+  Print Name:
+[table-column]
+  Print Name: {{carta.contact_first_name}} {{carta.contact_last_name}}
+[table-line]
+  Title:
+[table-column]
+  Title: {{carta.contact_title}}
+[table-line]
+  Date:
+[table-column]
+  Date: {{carta.as_of_date}}
+[table-stop]
+
+
+
+[new-page]
+
+<center>###ADDENDUM 1</center>
+
+<center>####Order Form</center>
+
+
+[hs]
+[ls]**Subscription Term: {{carta.subscription_terms_months}} months** 
+<br>
+[ls]**{{carta.spv_display_title}} Formation & Administration Services**  
+<br>
+[ls]**{{carta.entity_name}}** [c]**${{carta.spv_formation_price_usd}}**
+[ls]{{carta.reporting_frequency}} reporting
+<br>
+[ls]Investments per Year:  **1**
+[ls]Total Number of Investments:  **1**
+[ls]Audited Fund?  **{% if carta.use_carta_audit == true %}Yes {% else %}No {% endif %}**
+[ls]Premium Return? **{% if carta.use_premium_return == true %} Yes {% else %}No {% endif %}**
+[ls]Multiple Capital Calls?  **{{carta.use_multiple_cap_calls}}**
+[ls]Quarterly Distributions? **{% if carta.use_quarterly_distributions == true %} Yes {% else %}No {% endif %}**
+[ls]Existing or Raising? **Raising**
+[ls]First Carta Financials Reporting Period:  **FY {{now | date('YY') }}**
+<br>
+[ls]
+{% if carta.use_carta_tax == true %}**SPV Tax Return Preparation Services**    [c]     **${{carta.tax_return_preparation_price_usd}}<sup>2</sup>**
+      [ls]  Federal Return (Form 1065)<br>Schedule K-1s<br>State Filings (if required)<br>Two (2) realization events<br>Unlimited Resident Partner filings
+{% endif %}
+[ls] 
+{% if carta.use_carta_formations_for_manager_entity == true %}**GP Entity Formation Services (One-time Cost)**      [c]**${{carta.gp_formation_price_usd}}**
+[ls]{% endif %}
+
+[ls]{% if carta.use_carta_kyc_aml == true %}**Due Diligence Services - KYC** {% if carta.due_diligence_service_billing_frequency_annual == false %}**(One-time Cost)**  {% endif %} [c]**${{ (carta.kyc_per_investor_price_usd) * (carta.number_of_investors) }}** 
+[ls]Cost per LP: ${{carta.kyc_per_investor_price_usd}}<br>Due Diligence for up to {{carta.number_of_investors}}
+{% endif %}
+
+<br>
+[ls]
+{% if carta.due_diligence_service_billing_frequency_annual == true %}
+**Annual Contract Value** [c]**${{carta.annual_contract_value + (carta.kyc_per_investor_price_usd) * (carta.number_of_investors)}}**[ts]
+{% else %}
+**Annual Contract Value** [c]**${{carta.annual_contract_value}}**[ts]
+{% endif %}
+
+
+{% if carta.use_carta_tax == true %} <sup>2 Additional tax return preparation services will incur additional fees.</sup> {% endif %}
+
+[new-page]
+<center>###ADDENDUM 2</center>
+<center>**Payment Schedule**</center>
+<br>
+**<u><center>{{carta.spv_display_title}} Formation and Administration Services - {{carta.entity_name}}**</u></center><br>
+	[table-start-border]
+	**<center>Coverage Period Start**</center>
+[table-header]
+   **<center>Coverage Period**</center>
+[table-header]
+   **<center>Annual Amount**</center>
+	[table-header]
+   **<center>Billing Frequency**</center>
+[table-line]
+  <center>Effective Date</center>
+[table-column]
+  <center>{{carta.coverage_period_months_formations_service}} months</center>
+[table-column]
+  <center>${{carta.spv_formation_price_usd}}</center>
+[table-column]
+  <center>Annually in Advance at Coverage Period Start</center>
+[table-stop]
+		
+
+			{% if carta.use_carta_tax == true %}**<u><center>SPV Tax Return Preparation Services</u><sup>3</sup></center>**<br>
+	[table-start-border]
+	**<center>Coverage Period Start**</center>
+[table-header]
+   **<center>Coverage Period**</center>
+[table-header]
+   **<center>Annual Amount**</center>
+	[table-header]
+   **<center>Billing Frequency**</center>
+[table-line]
+  <center>Effective Date</center>
+[table-column]
+  <center>{{carta.coverage_period_months_tax_return_service}} months</center>
+[table-column]
+  <center>${{carta.tax_return_preparation_price_usd}}</center>
+[table-column]
+  <center>Annually in Advance at Coverage Period Start</center>
+[table-stop]
+{% endif %}
+
+
+			{% if carta.use_carta_formations_for_manager_entity == true %}**<u><center>GP Entity Formation Services</u></center>**<br>
+[table-start-border]
+	<center>**Coverage Period Start**</center>
+[table-header]
+   <center>**Coverage Period**</center>
+[table-header]
+   <center>**Annual Amount**</center>
+	[table-header]
+   <center>**Billing Frequency**</center>
+[table-line]
+  <center>Effective Date</center>
+[table-column]
+  <center>One-Time</center>
+[table-column]
+  <center>${{carta.gp_formation_price_usd}}</center>
+[table-column]
+  <center>One-Time Payment at Coverage Period Start</center>
+[table-stop]
+{% endif %}
+
+	
+			{% if carta.use_carta_kyc_aml == true %}**<u><center>Due Diligence Services (KYC/AML)</u></center>**<br>
+[table-start-border]
+	<center>**Coverage Period Start**</center>
+[table-header]
+   <center>**Coverage Period**</center>
+[table-header]
+   <center>**Annual Amount**</center>
+	[table-header]
+   <center>**Billing Frequency**</center>
+[table-line]
+  <center>Effective Date
+[table-column]
+  <center>{{carta.coverage_period_months_due_diligence_service}} months</center>
+[table-column]
+  <center>${{ (carta.kyc_per_investor_price_usd) * (carta.number_of_investors) }}</center>
+[table-column]
+  <center>{% if carta.due_diligence_service_billing_frequency_annual == true %} Annually in Advance at Coverage Period Start {% else %} One-Time Payment at Coverage Period Start {% endif %}</center>
+[table-stop]
+{% endif %}
+
+
+
+
+	{% if carta.use_carta_tax == true %} <sup>3 As described on Addendum 1.</sup> {% else %}{% endif %}
+[new-page]
+<center>###EXHIBIT 1</center>
+
+SAMPLE SPV REPORTING PACKAGE AND LP COMMUNICATIONS <br>(https://support.carta.com/s/article/reporting-communications-package-spvs) 
+ [new-page]
+<center>###EXHIBIT 2</center>
+
+<center>###SCOPE OF SERVICES</center>
+
+SPV Formation and/or Administration Services <br>(https://support.carta.com/s/article/spv-formations-administration-scope-of-services) 
+SPV Tax Return Preparation Services <br>(https://support.carta.com/s/article/scope-of-services-spv-tax) 
+Due Diligence Services<br>(https://support.carta.com/s/article/due-diligence-scope-of-services)

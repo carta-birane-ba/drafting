@@ -1,0 +1,54 @@
+<br>
+<br>
+
+<center>## {{carta.fund_name}}</center>
+
+<center># CARRY WAIVER SIDE LETTER</center>
+<center>{{now | date('Do of MMMM YYYY') }}</center>
+
+<br>
+<br>
+To: {{investor.name}} (the Investor Member)
+<br>
+This letter is provided to the Investor Member in consideration of the Investor’s investment in {{carta.fund_name}}, (the **Fund**), a series of {{carta.master_entity_name}}, a Delaware multi-series limited partnership (the “**Master Partnership**”). Capitalized terms not otherwise defined herein have the same meaning as in the Limited Partnership Agreement of the Fund, dated as of {{carta.limited_partnership_agreement_date | date }}, as amended from time to time (the "Partnership Agreement") (and all rules of interpretation and usage set forth in the Partnership Agreement are hereby incorporated by reference). Except as otherwise indicated, "Section" references are to the Sections of this letter.
+<br>
+
+
+1. ### Commitments by the General Partner
+   Subject to the restrictions and limitations set forth in this letter, the undersigned {{carta.general_partner_name}}, LLC (the **General Partner**), a Delaware limited liability company, acting in its capacity as the general partner of the Fund, hereby agrees as follows:
+	1. ***Reduction in Carried Interest Rate***. Notwithstanding Sections 4.1(a) and 5.1(c) of the Partnership Agreement, the allocations and distributions to the Investor shall at all times be calculated and effected as if the General Partner’s carried interest with respect to the Investor as a Limited Partner is equal to {{investor.carried_interest}}% (rather than {{carta.fund_carried_interest_percent}}%). Any obligation of the General Partner to return excess distributions with respect to the Investor pursuant to the terms of the Partnership Agreement shall be revised as required to be consistent with this paragraph. For purposes of clarity, such reduction applies only to you and not to any other Limited Partner. 
+
+1. ### Restrictions, Limitations and General Provisions
+   1. The obligations of the General Partner in this letter shall be binding upon the General Partner only for so long as:
+      - you continue as a Limited Partner with an Investment Commitment of not less than {{investor.investment_amount | currency(carta.fund_currency)}}
+      - you have not become a Defaulting Limited Partner; and 
+		- you are not otherwise in breach of the Partnership Agreement. In addition, such commitments shall be binding upon the General Partner only if you execute the acceptance below and deliver the same to the General Partner within 30 days after the later of:
+         - the date first above written; or
+			-  your admission to the Partnership.
+   1. Except as specifically provided in this letter or in a written consent executed by the General Partner after the date first above written: 
+      - the commitments made by the General Partner in this letter are for your sole and exclusive benefit and shall not be transferred by you to any Person, in whole or in part; and 
+		- no third party shall be entitled to any rights, benefits or privileges in connection with this letter.
+   1. Nothing in this letter shall obligate the General Partner to provide you with advice, analysis or reports regarding any securities and it is our mutual intention that this letter shall not cause you to become a "client" of the General Partner within the meaning of the United States Investment Advisers Act of 1940, as amended, or any similar state or non-United States law. Nothing in this letter shall obligate the General Partner to take any action that would cause it to be required to register as a "broker" or "dealer" under the United States Securities Exchange Act of 1934, as amended, or any similar state or foreign law. Nothing in this letter shall obligate the General Partner to:   
+      - violate any applicable law;
+		- subject itself to compliance or oversight obligations under any additional regulatory regime; or
+		- otherwise incur any material regulatory burden or obligation.
+   1. This letter shall be amended only through a written amendment executed by you and the General Partner. There are no additional side letters or similar agreements between you and the General Partner relating to the Partnership. This letter (together with the Partnership Agreement and your Subscription Agreement) contains the entire understanding between you and the General Partner, and supersedes any prior written or oral agreement between you and the General Partner, relating to the Partnership. There are no (and neither you nor the General Partner has relied upon any) representations, agreements, arrangements, or understandings, oral or written, among you and the General Partner relating to the Partnership which are not fully expressed in this letter (or, to the extent provided in the preceding sentence, the Partnership Agreement and your Subscription Agreement). The obligations of each party pursuant to this letter supplement such party's obligations pursuant to the Partnership Agreement, notwithstanding such party's rights and obligations pursuant to the Partnership Agreement.  This letter supplements the Partnership Agreement and your Subscription Agreement and in the event of a conflict between the provisions of this letter and the Partnership Agreement or your Subscription Agreement, the provisions of this letter shall control.  
+   1. Any controversy or claim arising out of or relating to this letter shall be resolved, and any costs associated therewith shall be apportioned among the parties hereto, in the same manner as if such controversy or claim had arisen under to the Partnership Agreement. Without limitation on the preceding sentence: 
+      -  the standards of care to which the General Partner is subject in satisfying its obligations pursuant to this letter shall be the same as if such obligations had arisen under the Partnership Agreement; and 
+      -  with respect to any statements, representations or warranties made by the General Partner in this letter, the General Partner shall be entitled to rely upon the truth and accuracy of all statements, representations and warranties made by Limited Partners in their Subscription Agreement or the Partnership Agreement.
+   1. The laws of the State of Delaware shall govern this letter in the same manner as the Partnership Agreement. Except as specifically provided in this letter, the relationship among you, the General Partner and the Partnership shall be governed exclusively by the Partnership Agreement and your Subscription Agreement. In all events, the obligations of the General Partner pursuant to this letter shall be subject to the fiduciary duties of the General Partner to the Partnership and the Limited Partners as determined under applicable law and the Partnership Agreement. All rules of construction, interpretation and timing set forth in the Partnership Agreement are hereby incorporated by reference. 
+   1. All notices, elections, approvals, and communications arising pursuant to this letter shall be made or provided in accordance with, and otherwise governed by, Section 10.6 of the Partnership Agreement.
+   1. This letter may be executed in any number of counterparts and, when so executed, all of such counterparts shall constitute a single instrument binding upon all parties notwithstanding the fact that all parties are not signatory to the original or to the same counterpart.
+   1. Each provision of this letter will be considered severable and if for any reason any provision or provisions herein are determined to be invalid, unenforceable or illegal under any existing or future law, such invalidity, unenforceability or illegality will not impair the operation of or affect those portions of this letter that are valid, enforceable and legal.
+   1. Neither the failure nor any delay on the part of any party hereto to exercise any right under this letter shall operate as a waiver thereof, nor shall any single or partial exercise of any right preclude any other or further exercise of the same or of any other right, nor shall any waiver of any right with respect to any occurrence be construed as a waiver of such right with respect to any other occurrence.
+   1. This letter is a side letter within the meaning of Section 10.1 of the Partnership Agreement.
+   1. The paragraph headings contained in this letter are inserted for convenience only and shall not affect in any way the meaning or interpretation of this letter.
+   1. This letter shall be treated as confidential in the same manner as the Partnership Agreement. To the extent that, pursuant to this letter, information is made available to your representative, employee, agent or advisor, you shall be responsible for ensuring that such Person discloses and uses such information only in the manner that you are permitted to disclose and use such information pursuant to this letter and the Partnership Agreement.
+[new-page] 
+
+<br>
+		IN WITNESS WHEREOF, this Agreement has been executed by each of the parties as of the date first set forth above.
+
+[signature-block]
+
+
