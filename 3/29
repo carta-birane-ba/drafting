@@ -156,7 +156,7 @@ Item {% endif %}
 
 
 [new-page]
-{% if (manager.signatures[0].signed == true) %}
+{% if (carta.use_pricing_test_updates == true) %}
   SCOPE OF SERVICES
 Item 
 Syndicate SPV USD $10,000
