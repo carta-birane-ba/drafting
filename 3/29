@@ -157,7 +157,7 @@ Item {% endif %}
 {% if carta.use_additional_close == true %}Additional Close (same asset and same terms) USD $3,000 (per additional close){% endif %}
 {% if carta.use_side_letter == true %}Side Letter for waived carry USD $1,900 {% endif %}
 {% endif %}
-
+<!-- 
 {% if (carta.use_pricing_test_updates == true) %}
 [new-page]
 
@@ -177,4 +177,4 @@ Item {% endif %}
 {% if carta.use_quarterly_reporting == true %}Quarterly reporting USD $20,000 {% endif %}
 {% if carta.use_form_d == true %}Form D & Blue Sky filings (not required if all LPs are in Florida or outside US) USD $2,000 {% endif %}
 {% if carta.total_cost != null and carta.use_pricing_test_updates == true %} Total Price: USD ${{ carta.total_cost }} {% endif %}
-{% endif %}
+{% endif %} -->
